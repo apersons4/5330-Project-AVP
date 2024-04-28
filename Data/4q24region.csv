@@ -1,0 +1,388 @@
+"#""hg38.knownGene.name""",hg38.knownGene.strand,hg38.knownGene.exonCount,hg38.knownGene.proteinID,geneSymbol,refseq,description
+ENST00000515026.1,+,6,,H2AZ1-DT,,H2AZ1-DT (from geneSymbol)
+ENST00000273990.6,-,3,Q96D03,DDIT4L,NM_145244,"Homo sapiens DNA damage inducible transcript 4 like (DDIT4L), mRNA. (from RefSeq NM_145244)"
+ENST00000502763.1,-,2,D6RJ99,DDIT4L,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RJ99)
+ENST00000513992.1,-,3,D6RD49,DDIT4L,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RD49)
+ENST00000515782.1,+,5,,DDIT4L-AS1,NR_125924,"Homo sapiens uncharacterized LOC101929353 (LOC101929353), long non-coding RNA. (from RefSeq NR_125924)"
+ENST00000296420.9,-,12,Q9ULC0,EMCN,NM_016242,"Homo sapiens endomucin (EMCN), transcript variant 1, mRNA. (from RefSeq NM_016242)"
+ENST00000305864.7,-,9,Q9ULC0,EMCN,,"Endothelial sialomucin, also called endomucin or mucin-  like sialoglycoprotein, which interferes with the assembly of  focal adhesion complexes and inhibits interaction between cells  and the extracellular matrix. (from UniProt Q9ULC0)"
+ENST00000506300.5,-,5,H0YAA7,EMCN,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0YAA7)
+ENST00000511970.5,-,11,Q9ULC0,EMCN,NM_001159694,"Homo sapiens endomucin (EMCN), transcript variant 2, mRNA. (from RefSeq NM_001159694)"
+ENST00000502569.1,-,6,D6RHW5,EMCN,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RHW5)
+ENST00000652064.1,+,2,,ENSG00000286150,,ENSG00000286150 (from geneSymbol)
+ENST00000502327.5,-,6,,EMCN,,endomucin (from HGNC EMCN)
+ENST00000512253.5,-,5,,EMCN,,endomucin (from HGNC EMCN)
+ENST00000506323.1,-,4,,EMCN,,endomucin (from HGNC EMCN)
+ENST00000510657.1,-,6,,EMCN,,endomucin (from HGNC EMCN)
+ENST00000502744.1,-,2,,EMCN,,endomucin (from HGNC EMCN)
+ENST00000515728.1,-,4,,LINC01216,NR_046811,"Homo sapiens long intergenic non-protein coding RNA 1216 (LINC01216), long non-coding RNA. (from RefSeq NR_046811)"
+ENST00000514427.1,-,2,,LINC01217,,long intergenic non-protein coding RNA 1217 (from HGNC LINC01217)
+ENST00000657311.1,-,3,,LINC01217,NR_046812,long intergenic non-protein coding RNA 1217 (from HGNC LINC01217)
+ENST00000515150.1,-,2,,LINC01218,,long intergenic non-protein coding RNA 1218 (from HGNC LINC01218)
+ENST00000512215.5,-,8,Q08209,PPP3CA,,"Calcium-dependent, calmodulin-stimulated protein  phosphatase. This subunit may have a role in the calmodulin  activation of calcineurin. Dephosphorylates DNM1L, HSPB1 and SSH1. (from UniProt Q08209)"
+ENST00000394854.8,-,14,Q08209,PPP3CA,NM_000944,"Homo sapiens protein phosphatase 3 catalytic subunit alpha (PPP3CA), transcript variant 1, mRNA. (from RefSeq NM_000944)"
+ENST00000323055.10,-,12,Q08209,PPP3CA,NM_001130692,"Homo sapiens protein phosphatase 3 catalytic subunit alpha (PPP3CA), transcript variant 3, mRNA. (from RefSeq NM_001130692)"
+ENST00000394853.8,-,13,Q08209,PPP3CA,NM_001130691,"Homo sapiens protein phosphatase 3 catalytic subunit alpha (PPP3CA), transcript variant 2, mRNA. (from RefSeq NM_001130691)"
+ENST00000507176.5,-,13,E7ETC2,PPP3CA,,A phosphoprotein + H(2)O = a protein +  phosphate. (from UniProt E7ETC2)
+ENST00000492351.6,-,8,H0YAB4,PPP3CA,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0YAB4)
+ENST00000510292.1,-,5,,PPP3CA,,protein phosphatase 3 catalytic subunit alpha (from HGNC PPP3CA)
+ENST00000529324.5,-,5,E9PK68,PPP3CA,,A phosphoprotein + H(2)O = a protein +  phosphate. (from UniProt E9PK68)
+ENST00000525819.1,-,5,E9PPC8,PPP3CA,,A phosphoprotein + H(2)O = a protein +  phosphate. (from UniProt E9PPC8)
+ENST00000617280.1,-,1,,MIR8066,NR_107033,"Homo sapiens microRNA 8066 (MIR8066), microRNA. (from RefSeq NR_107033)"
+ENST00000408338.1,-,1,,MIR1255A,NR_031656,"Homo sapiens microRNA 1255a (MIR1255A), microRNA. (from RefSeq NR_031656)"
+ENST00000529296.3,+,2,,FLJ20021,,FLJ20021 (from geneSymbol)
+ENST00000527564.2,+,2,,FLJ20021,NR_033874,"Homo sapiens uncharacterized LOC90024 (FLJ20021), long non-coding RNA. (from RefSeq NR_033874)"
+ENST00000689482.1,+,1,,FLJ20021,,FLJ20021 (from geneSymbol)
+ENST00000502990.5,+,5,,BANK1,,B cell scaffold protein with ankyrin repeats 1 (from HGNC BANK1)
+ENST00000504592.5,+,21,Q8NDB2,BANK1,,Involved in B-cell receptor (BCR)-induced Ca(2+)  mobilization from intracellular stores. Promotes Lyn-mediated  phosphorylation of IP3 receptors 1 and 2. (from UniProt Q8NDB2)
+ENST00000652546.1,-,3,,ENSG00000286124,,ENSG00000286124 (from geneSymbol)
+ENST00000362659.1,+,1,,RNU6-462P,,"RNA, U6 small nuclear 462, pseudogene (from HGNC RNU6-462P)"
+ENST00000428908.5,+,16,Q8NDB2,BANK1,NM_001127507,"Homo sapiens B cell scaffold protein with ankyrin repeats 1 (BANK1), transcript variant 3, mRNA. (from RefSeq NM_001127507)"
+ENST00000322953.9,+,17,Q8NDB2,BANK1,NM_017935,"Homo sapiens B cell scaffold protein with ankyrin repeats 1 (BANK1), transcript variant 1, mRNA. (from RefSeq NM_017935)"
+ENST00000508653.5,+,15,Q8NDB2,BANK1,,Involved in B-cell receptor (BCR)-induced Ca(2+)  mobilization from intracellular stores. Promotes Lyn-mediated  phosphorylation of IP3 receptors 1 and 2. (from UniProt Q8NDB2)
+ENST00000444316.2,+,17,Q8NDB2,BANK1,NM_001083907,"Homo sapiens B cell scaffold protein with ankyrin repeats 1 (BANK1), transcript variant 2, mRNA. (from RefSeq NM_001083907)"
+ENST00000503764.1,+,1,,MTND5P5,,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5 pseudogene 5 (from HGNC MTND5P5)
+ENST00000505091.1,-,3,,ENSG00000251309,,ENSG00000251309 (from geneSymbol)
+ENST00000510950.1,+,4,,BANK1,,B cell scaffold protein with ankyrin repeats 1 (from HGNC BANK1)
+ENST00000504403.1,+,5,,BANK1,,B cell scaffold protein with ankyrin repeats 1 (from HGNC BANK1)
+ENST00000424970.7,-,12,A0A804HKX2,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000682549.1,-,12,A0A804HKX2,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000356736.5,-,9,Q9C0K1,SLC39A8,NM_001135146,"Homo sapiens solute carrier family 39 member 8 (SLC39A8), transcript variant 2, mRNA. (from RefSeq NM_001135146)"
+ENST00000394833.6,-,8,Q9C0K1,SLC39A8,NM_022154,"Homo sapiens solute carrier family 39 member 8 (SLC39A8), transcript variant 1, mRNA. (from RefSeq NM_022154)"
+ENST00000682227.1,-,9,Q9C0K1,SLC39A8,NM_001135147,"Homo sapiens solute carrier family 39 member 8 (SLC39A8), transcript variant 3, mRNA. (from RefSeq NM_001135147)"
+ENST00000683401.1,-,8,,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000682932.1,-,9,Q9C0K1,SLC39A8,,Acts as a zinc-influx transporter. (from UniProt Q9C0K1)
+ENST00000683412.1,-,9,Q9C0K1,SLC39A8,,Acts as a zinc-influx transporter. (from UniProt Q9C0K1)
+ENST00000683173.1,-,11,A0A804HKQ9,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000684289.1,-,9,A0A804HHT0,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000683462.1,-,10,A0A804HKX2,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000682243.1,-,12,A0A804HKQ9,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000683916.1,-,9,A0A804HKX2,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000684386.1,-,11,A0A804HJR0,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000683706.1,-,6,A0A804HHS9,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000683634.1,-,10,A0A804HKQ9,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000683221.1,-,8,A0A804HKW0,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000512337.1,-,2,,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000510255.5,-,5,,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000514000.5,-,4,,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000512657.5,-,4,,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000502903.1,-,4,,SLC39A8,,solute carrier family 39 member 8 (from HGNC SLC39A8)
+ENST00000464718.3,-,1,,RN7SL728P,,"RNA, 7SL, cytoplasmic 728, pseudogene (from HGNC RN7SL728P)"
+ENST00000502883.5,-,3,,ENSG00000248161,,ENSG00000248161 (from geneSymbol)
+ENST00000505709.1,-,2,,ENSG00000248161,,ENSG00000248161 (from geneSymbol)
+ENST00000512915.5,-,4,,ENSG00000248161,NR_136202,"Homo sapiens uncharacterized LOC105377621 (LOC105377621), long non-coding RNA. (from RefSeq NR_136202)"
+ENST00000506972.1,-,4,,ENSG00000248161,,ENSG00000248161 (from geneSymbol)
+ENST00000510417.2,+,1,,ENSG00000251572,,ENSG00000251572 (from geneSymbol)
+ENST00000563833.1,-,1,,ENSG00000260651,,ENSG00000260651 (from geneSymbol)
+ENST00000507079.6,+,25,D6RH30,NFKB1,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RH30)
+ENST00000394820.8,+,24,P19838,NFKB1,NM_001382628,"Homo sapiens nuclear factor kappa B subunit 1 (NFKB1), transcript variant 7, mRNA. (from RefSeq NM_001382628)"
+ENST00000226574.9,+,24,P19838,NFKB1,NM_003998,"Homo sapiens nuclear factor kappa B subunit 1 (NFKB1), transcript variant 1, mRNA. (from RefSeq NM_003998)"
+ENST00000652619.1,+,26,A0A494C1E9,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697793.1,+,6,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697794.1,+,22,A0A8V8TLB2,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697795.1,+,3,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000505458.5,+,24,P19838,NFKB1,NM_001319226,"Homo sapiens nuclear factor kappa B subunit 1 (NFKB1), transcript variant 3, mRNA. (from RefSeq NM_001319226)"
+ENST00000697796.1,+,5,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697797.1,+,6,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000509165.2,+,24,P19838,NFKB1,NM_001382625,"Homo sapiens nuclear factor kappa B subunit 1 (NFKB1), transcript variant 4, mRNA. (from RefSeq NM_001382625)"
+ENST00000697798.1,+,2,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000652569.1,+,23,A0A494C157,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000513803.5,+,5,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000502367.1,+,2,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000510638.1,+,5,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000600343.5,+,17,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000508584.1,+,6,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697799.1,+,16,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697800.1,+,6,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000504044.1,+,3,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000698233.1,+,10,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697801.1,+,7,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697802.1,+,3,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000697803.1,+,2,,NFKB1,,nuclear factor kappa B subunit 1 (from HGNC NFKB1)
+ENST00000644159.1,-,18,A0A2R8Y524,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000647097.2,-,17,O00462,MANBA,NM_005908,"Homo sapiens mannosidase beta (MANBA), mRNA. (from RefSeq NM_005908)"
+ENST00000514430.5,-,17,,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000646727.1,-,18,A0A2R8YCE9,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000644545.1,-,18,A0A2R8Y4U7,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000646311.1,-,19,A0A2R8Y211,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000647129.1,-,18,A0A2R8Y7A7,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000642252.1,-,18,A0A2R8YEC9,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000645558.1,-,15,A0A2R8Y7N1,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000645348.1,-,19,A0A2R8YE79,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000505239.1,-,16,E9PFW2,MANBA,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt E9PFW2)
+ENST00000508141.1,-,3,,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000488102.2,+,1,,RPL21P49,,ribosomal protein L21 pseudogene 49 (from HGNC RPL21P49)
+ENST00000646451.1,-,5,A0A2R8Y7A0,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000506478.1,-,2,,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000644965.1,-,4,A0A2R8YG98,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000511813.1,-,4,D6RA01,MANBA,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RA01)
+ENST00000514785.1,-,2,,LRRC37A15P,,"leucine rich repeat containing 37 member A15, pseudogene (from HGNC LRRC37A15P)"
+ENST00000512037.2,-,1,,KRT8P46,,keratin 8 pseudogene 46 (from HGNC KRT8P46)
+ENST00000510791.1,+,1,,ENSG00000224207,,ENSG00000224207 (from geneSymbol)
+ENST00000513388.2,+,1,,ENSG00000251288,,ENSG00000251288 (from geneSymbol)
+ENST00000507358.1,-,2,,MANBA,,mannosidase beta (from HGNC MANBA)
+ENST00000453744.7,-,8,P61077,UBE2D3,NM_181891,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 7, mRNA. (from RefSeq NM_181891)"
+ENST00000394804.6,-,8,P61077,UBE2D3,NM_181886,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 2, mRNA. (from RefSeq NM_181886)"
+ENST00000618836.4,-,7,A0A087WY85,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000394803.9,-,8,P61077,UBE2D3,NM_181889,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 5, mRNA. (from RefSeq NM_181889)"
+ENST00000394801.8,-,8,P61077,UBE2D3,NM_181888,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 4, mRNA. (from RefSeq NM_181888)"
+ENST00000508474.5,-,6,,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000343106.9,-,8,P61077,UBE2D3,NM_181892,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 8, mRNA. (from RefSeq NM_181892)"
+ENST00000503742.5,-,7,,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000321805.11,-,8,P61077,UBE2D3,,"Accepts ubiquitin from the E1 complex and catalyzes its  covalent attachment to other proteins. In vitro catalyzes 'Lys-  11'-, as well as 'Lys-48'-linked polyubiquitination. Cooperates  with the E2 CDC34 and the SCF(FBXW11) E3 ligase complex for the  polyubiquitination of NFKBIA leading to its subsequent proteasomal  degradation. Acts as an initiator E2, priming the phosphorylated  NFKBIA target at positions 'Lys-21' and/or 'Lys-22' with a  monoubiquitin. Ubiquitin chain elongation is then performed by  CDC34, building ubiquitin chains from the UBE2D3-primed NFKBIA-  linked ubiquitin. Acts also as an initiator E2, in conjunction  with RNF8, for the priming of PCNA. Monoubiquitination of PCNA,  and its subsequent polyubiquitination, are essential events in the  operation of the DNA damage tolerance (DDT) pathway that is  activated after DNA damage caused by UV or chemical agents during  S-phase. Associates with the BRCA1/BARD1 E3 ligase complex to  perform ubiquitination at DNA damage sites following ionizing  radiation leading to DNA repair. Targets DAPK3 for ubiquitination  which influences promyelocytic leukemia protein nuclear body (PML-  NB) formation in the nucleus. In conjunction with the MDM2 and  TOPORS E3 ligases, functions ubiquitination of p53/TP53. Supports  NRDP1-mediated ubiquitination and degradation of ERBB3 and of  BRUCE which triggers apoptosis. In conjunction with the CBL E3  ligase, targets EGFR for polyubiquitination at the plasma membrane  as well as during its internalization and transport on endosomes.  In conjunction with the STUB1 E3 quality control E3 ligase,  ubiquitinates unfolded proteins to catalyze their immediate  destruction (By similarity). (from UniProt P61077)"
+ENST00000350435.11,-,7,H9KV45,UBE2D3,,Belongs to the ubiquitin-conjugating enzyme family. (from UniProt H9KV45)
+ENST00000338145.7,-,8,P61077,UBE2D3,NM_181890,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 6, mRNA. (from RefSeq NM_181890)"
+ENST00000349311.12,-,8,P61077,UBE2D3,,"Accepts ubiquitin from the E1 complex and catalyzes its  covalent attachment to other proteins. In vitro catalyzes 'Lys-  11'-, as well as 'Lys-48'-linked polyubiquitination. Cooperates  with the E2 CDC34 and the SCF(FBXW11) E3 ligase complex for the  polyubiquitination of NFKBIA leading to its subsequent proteasomal  degradation. Acts as an initiator E2, priming the phosphorylated  NFKBIA target at positions 'Lys-21' and/or 'Lys-22' with a  monoubiquitin. Ubiquitin chain elongation is then performed by  CDC34, building ubiquitin chains from the UBE2D3-primed NFKBIA-  linked ubiquitin. Acts also as an initiator E2, in conjunction  with RNF8, for the priming of PCNA. Monoubiquitination of PCNA,  and its subsequent polyubiquitination, are essential events in the  operation of the DNA damage tolerance (DDT) pathway that is  activated after DNA damage caused by UV or chemical agents during  S-phase. Associates with the BRCA1/BARD1 E3 ligase complex to  perform ubiquitination at DNA damage sites following ionizing  radiation leading to DNA repair. Targets DAPK3 for ubiquitination  which influences promyelocytic leukemia protein nuclear body (PML-  NB) formation in the nucleus. In conjunction with the MDM2 and  TOPORS E3 ligases, functions ubiquitination of p53/TP53. Supports  NRDP1-mediated ubiquitination and degradation of ERBB3 and of  BRUCE which triggers apoptosis. In conjunction with the CBL E3  ligase, targets EGFR for polyubiquitination at the plasma membrane  as well as during its internalization and transport on endosomes.  In conjunction with the STUB1 E3 quality control E3 ligase,  ubiquitinates unfolded proteins to catalyze their immediate  destruction (By similarity). (from UniProt P61077)"
+ENST00000504211.5,-,7,D6RAH7,UBE2D3,,Belongs to the ubiquitin-conjugating enzyme family. (from UniProt D6RAH7)
+ENST00000505009.5,-,4,,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000357194.10,-,7,P61077,UBE2D3,NM_181893,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 9, mRNA. (from RefSeq NM_181893)"
+ENST00000505207.5,-,7,D6RAH7,UBE2D3,,Belongs to the ubiquitin-conjugating enzyme family. (from UniProt D6RAH7)
+ENST00000507845.5,-,8,D6RAH7,UBE2D3,NM_001300795,"Homo sapiens ubiquitin conjugating enzyme E2 D3 (UBE2D3), transcript variant 10, mRNA. (from RefSeq NM_001300795)"
+ENST00000502404.5,-,8,D6RAH7,UBE2D3,,Belongs to the ubiquitin-conjugating enzyme family. (from UniProt D6RAH7)
+ENST00000508635.5,-,8,D6RJB3,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RJB3)
+ENST00000505307.5,-,8,D6R933,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R933)
+ENST00000510129.5,-,7,D6R9F6,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R9F6)
+ENST00000508476.5,-,5,D6RAW0,UBE2D3,,Belongs to the ubiquitin-conjugating enzyme family. (from UniProt D6RAW0)
+ENST00000502563.5,-,5,D6R9F6,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R9F6)
+ENST00000508238.5,-,6,D6RA11,UBE2D3,,Belongs to the ubiquitin-conjugating enzyme family. (from UniProt D6RA11)
+ENST00000514755.5,-,7,D6R933,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R933)
+ENST00000508974.5,-,7,D6R980,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R980)
+ENST00000502690.5,-,7,D6RIZ3,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RIZ3)
+ENST00000510599.5,-,3,,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000508818.5,-,5,,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000503418.5,-,6,D6R933,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R933)
+ENST00000508249.1,-,5,D6RGD0,UBE2D3,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RGD0)
+ENST00000513098.5,-,4,,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000503282.1,-,4,,UBE2D3,,ubiquitin conjugating enzyme E2 D3 (from HGNC UBE2D3)
+ENST00000652530.1,+,2,,ENSG00000286242,,ENSG00000286242 (from geneSymbol)
+ENST00000501133.3,+,2,,UBE2D3-AS1,NR_131186,"Homo sapiens UBE2D3 antisense RNA 1 (UBE2D3-AS1), transcript variant 2, long non-coding RNA. (from RefSeq NR_131186)"
+ENST00000686558.2,+,2,,UBE2D3-AS1,,UBE2D3-AS1 (from geneSymbol)
+ENST00000516930.1,-,1,,RNU7-151P,,"RNA, U7 small nuclear 151 pseudogene (from HGNC RNU7-151P)"
+ENST00000646632.1,+,4,A0A2R8Y540,CISD2,,CDGSH iron sulfur domain 2 (from HGNC CISD2)
+ENST00000273986.10,+,3,Q8N5K1,CISD2,NM_001008388,"Homo sapiens CDGSH iron sulfur domain 2 (CISD2), mRNA. (from RefSeq NM_001008388)"
+ENST00000574446.1,+,4,I3L1N9,CISD2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt I3L1N9)
+ENST00000643561.1,+,4,A0A2R8Y4Y3,CISD2,,CDGSH iron sulfur domain 2 (from HGNC CISD2)
+ENST00000503643.1,+,3,D6RCF4,CISD2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RCF4)
+ENST00000394789.7,-,12,Q4ZJI4,SLC9B1,NM_001100874,"Homo sapiens solute carrier family 9 member B1 (SLC9B1), transcript variant 2, mRNA. (from RefSeq NM_001100874)"
+ENST00000514972.5,-,11,D6RFK4,SLC9B1,NR_047513,"Homo sapiens solute carrier family 9 member B1 (SLC9B1), transcript variant 3, non-coding RNA. (from RefSeq NR_047513)"
+ENST00000503584.5,-,11,Q4ZJI4,SLC9B1,NR_047515,"Homo sapiens solute carrier family 9 member B1 (SLC9B1), transcript variant 4, non-coding RNA. (from RefSeq NR_047515)"
+ENST00000413177.2,+,1,,PABPC1P7,,poly(A) binding protein cytoplasmic 1 pseudogene 7 (from HGNC PABPC1P7)
+ENST00000296422.12,-,12,Q4ZJI4,SLC9B1,NM_139173,"Homo sapiens solute carrier family 9 member B1 (SLC9B1), transcript variant 1, mRNA. (from RefSeq NM_139173)"
+ENST00000504216.5,-,9,D6RA80,SLC9B1,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RA80)
+ENST00000509614.1,-,3,,SLC9B1,,solute carrier family 9 member B1 (from HGNC SLC9B1)
+ENST00000512651.2,-,2,,SLC9B1,,solute carrier family 9 member B1 (from HGNC SLC9B1)
+ENST00000511253.1,-,3,H0Y9Z0,SLC9B1,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0Y9Z0)
+ENST00000510243.5,-,5,Q4ZJI4,SLC9B1,,Membrane; Multi-pass membrane protein  (Potential). (from UniProt Q4ZJI4)
+ENST00000514340.5,-,6,D6RHJ0,SLC9B1,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RHJ0)
+ENST00000503033.1,+,2,,ACTR3BP4,,ACTR3B pseudogene 4 (from HGNC ACTR3BP4)
+ENST00000510559.1,-,5,D6RGI9,SLC9B1,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RGI9)
+ENST00000362026.7,-,13,Q86UD5,SLC9B2,NM_001370202,"Homo sapiens solute carrier family 9 member B2 (SLC9B2), transcript variant 7, mRNA. (from RefSeq NM_001370202)"
+ENST00000506288.5,-,8,A0A0C4DGB3,SLC9B2,,solute carrier family 9 member B2 (from HGNC SLC9B2)
+ENST00000394785.9,-,12,Q86UD5,SLC9B2,NM_178833,"Homo sapiens solute carrier family 9 member B2 (SLC9B2), transcript variant 1, mRNA. (from RefSeq NM_178833)"
+ENST00000503103.5,-,10,B7Z676,SLC9B2,NM_001370207,"Homo sapiens solute carrier family 9 member B2 (SLC9B2), transcript variant 12, mRNA. (from RefSeq NM_001370207)"
+ENST00000503230.5,-,11,E9PE63,SLC9B2,NM_001370204,"Homo sapiens solute carrier family 9 member B2 (SLC9B2), transcript variant 9, mRNA. (from RefSeq NM_001370204)"
+ENST00000510976.1,-,3,,SLC9B2,,solute carrier family 9 member B2 (from HGNC SLC9B2)
+ENST00000515424.5,-,4,,SLC9B2,,solute carrier family 9 member B2 (from HGNC SLC9B2)
+ENST00000503818.1,-,4,D6RGJ7,SLC9B2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RGJ7)
+ENST00000505838.1,-,4,,SLC9B2,,solute carrier family 9 member B2 (from HGNC SLC9B2)
+ENST00000508136.1,-,6,D6R9P2,SLC9B2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R9P2)
+ENST00000512806.1,-,2,,SLC9B2,,solute carrier family 9 member B2 (from HGNC SLC9B2)
+ENST00000296424.9,-,10,Q9BUT1,BDH2,NM_020139,"Homo sapiens 3-hydroxybutyrate dehydrogenase 2 (BDH2), mRNA. (from RefSeq NM_020139)"
+ENST00000492366.5,-,9,,BDH2,,3-hydroxybutyrate dehydrogenase 2 (from HGNC BDH2)
+ENST00000464039.5,-,10,,BDH2,,3-hydroxybutyrate dehydrogenase 2 (from HGNC BDH2)
+ENST00000475058.5,-,10,,BDH2,,3-hydroxybutyrate dehydrogenase 2 (from HGNC BDH2)
+ENST00000506521.5,-,6,D6RBF6,BDH2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RBF6)
+ENST00000511354.5,-,7,D6RFG2,BDH2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RFG2)
+ENST00000504285.5,-,7,D6RIR6,BDH2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RIR6)
+ENST00000509245.1,-,6,D6R9U8,BDH2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R9U8)
+ENST00000513518.1,-,4,,BDH2,,3-hydroxybutyrate dehydrogenase 2 (from HGNC BDH2)
+ENST00000380026.8,-,47,Q02224,CENPE,NM_001286734,"Homo sapiens centromere protein E (CENPE), transcript variant 2, mRNA. (from RefSeq NM_001286734)"
+ENST00000265148.9,-,49,Q02224,CENPE,NM_001813,"Homo sapiens centromere protein E (CENPE), transcript variant 1, mRNA. (from RefSeq NM_001813)"
+ENST00000509823.2,-,2,A0A5F9ZH24,CENPE,,centromere protein E (from HGNC CENPE)
+ENST00000515478.1,-,2,,CENPE,,centromere protein E (from HGNC CENPE)
+ENST00000509120.2,-,3,,CENPE,,centromere protein E (from HGNC CENPE)
+ENST00000514974.1,-,7,D6RHK2,CENPE,,Belongs to the kinesin-like protein family. (from UniProt D6RHK2)
+ENST00000668077.1,+,4,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000656681.1,+,3,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000656104.1,+,4,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000513793.5,+,4,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000508099.5,+,4,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000664815.2,+,4,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000657481.2,+,3,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000510200.4,+,4,,LINC02428,NR_125925,"Homo sapiens long intergenic non-protein coding RNA 2428 (LINC02428), long non-coding RNA. (from RefSeq NR_125925)"
+ENST00000666142.1,+,5,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000687316.1,+,3,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000701460.1,+,4,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000669559.1,+,4,,LINC02428,,long intergenic non-protein coding RNA 2428 (from HGNC LINC02428)
+ENST00000502936.1,+,5,,TACR3-AS1,,TACR3-AS1 (from geneSymbol)
+ENST00000512401.5,+,5,,TACR3-AS1,,TACR3-AS1 (from geneSymbol)
+ENST00000652710.1,-,3,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000664047.1,-,4,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000656698.1,-,4,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000668906.1,-,3,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000671183.1,-,3,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000662651.1,-,2,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000669002.1,-,3,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000509399.1,-,4,,ENSG00000250920,,ENSG00000250920 (from geneSymbol)
+ENST00000506389.1,+,1,,DDX3P3,,DEAD-box helicase 3 pseudogene 3 (from HGNC DDX3P3)
+ENST00000304883.3,-,5,P29371,TACR3,NM_001059,"Homo sapiens tachykinin receptor 3 (TACR3), mRNA. (from RefSeq NM_001059)"
+ENST00000653472.1,+,2,,ENSG00000286291,,ENSG00000286291 (from geneSymbol)
+ENST00000516651.1,+,1,,RNU6-635P,,"RNA, U6 small nuclear 635, pseudogene (from HGNC RNU6-635P)"
+ENST00000510505.2,+,4,,LINC02503,,long intergenic non-protein coding RNA 2503 (from HGNC LINC02503)
+ENST00000514327.5,+,6,,ENSG00000251170,,ENSG00000251170 (from geneSymbol)
+ENST00000671148.1,+,3,,ENSG00000251170,,ENSG00000251170 (from geneSymbol)
+ENST00000505680.1,+,4,,ENSG00000251170,,ENSG00000251170 (from geneSymbol)
+ENST00000394767.3,-,3,J9JIF5,CXXC4,NM_025212,"Homo sapiens CXXC finger protein 4 (CXXC4), transcript variant 1, mRNA. (from RefSeq NM_025212)"
+ENST00000466963.1,-,3,,CXXC4,NR_132741,"Homo sapiens CXXC finger protein 4 (CXXC4), transcript variant 2, non-coding RNA. (from RefSeq NR_132741)"
+ENST00000515509.1,-,2,,CXXC4,,CXXC finger protein 4 (from HGNC CXXC4)
+ENST00000698535.1,-,2,A0A8V8TLX0,CXXC4,,CXXC finger protein 4 (from HGNC CXXC4)
+ENST00000664466.1,+,5,,CXXC4-AS1,,CXXC4 antisense RNA 1 (from HGNC CXXC4-AS1)
+ENST00000500179.1,+,10,,CXXC4-AS1,NR_125926,"Homo sapiens CXXC4 antisense RNA 1 (CXXC4-AS1), long non-coding RNA. (from RefSeq NR_125926)"
+ENST00000508358.1,+,4,,ENSG00000250670,,ENSG00000250670 (from geneSymbol)
+ENST00000655215.1,+,6,,CXXC4-AS1,,CXXC4 antisense RNA 1 (from HGNC CXXC4-AS1)
+ENST00000515127.1,-,6,,ENSG00000248242,,ENSG00000248242 (from geneSymbol)
+ENST00000474399.2,-,1,,RPL6P14,,ribosomal protein L6 pseudogene 14 (from HGNC RPL6P14)
+ENST00000515649.2,+,5,,ENSG00000248373,,ENSG00000248373 (from geneSymbol)
+ENST00000671069.1,+,7,,ENSG00000248373,,ENSG00000248373 (from geneSymbol)
+ENST00000506148.5,+,4,,ENSG00000248373,,ENSG00000248373 (from geneSymbol)
+ENST00000701312.1,+,2,,ENSG00000248373,,ENSG00000248373 (from geneSymbol)
+ENST00000506386.1,+,4,,ENSG00000248373,,ENSG00000248373 (from geneSymbol)
+ENST00000516097.2,+,1,,RNU6-351P,,"RNA, U6 small nuclear 351, pseudogene (from HGNC RNU6-351P)"
+ENST00000611455.1,-,1,,ENSG00000276992,,ENSG00000276992 (from geneSymbol)
+ENST00000505438.2,-,1,,ENSG00000251473,,ENSG00000251473 (from geneSymbol)
+ENST00000516327.1,+,1,,ENSG00000252136,,ENSG00000252136 (from geneSymbol)
+ENST00000504082.1,-,2,,ENSG00000251259,,ENSG00000251259 (from geneSymbol)
+ENST00000305737.6,+,3,Q6N021,TET2,NM_017628,"Homo sapiens tet methylcytosine dioxygenase 2 (TET2), transcript variant 2, mRNA. (from RefSeq NM_017628)"
+ENST00000513237.5,+,11,E7EQS8,TET2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt E7EQS8)
+ENST00000540549.5,+,11,Q6N021,TET2,,Catalyzes the conversion of methylcytosine (5mC) to 5-  hydroxymethylcytosine (hmC). Plays an important role in  myelopoiesis. The clear function of 5-hydroxymethylcytosine (hmC)  is still unclear but it may influence chromatin structure and  recruit specific factors or may constitute an intermediate  component in cytosine demethylation. (from UniProt Q6N021)
+ENST00000265149.9,+,10,Q6N021,TET2,,Catalyzes the conversion of methylcytosine (5mC) to 5-  hydroxymethylcytosine (hmC). Plays an important role in  myelopoiesis. The clear function of 5-hydroxymethylcytosine (hmC)  is still unclear but it may influence chromatin structure and  recruit specific factors or may constitute an intermediate  component in cytosine demethylation. (from UniProt Q6N021)
+ENST00000380013.9,+,11,Q6N021,TET2,NM_001127208,"Homo sapiens tet methylcytosine dioxygenase 2 (TET2), transcript variant 1, mRNA. (from RefSeq NM_001127208)"
+ENST00000504042.5,+,3,,TET2,,tet methylcytosine dioxygenase 2 (from HGNC TET2)
+ENST00000413648.2,+,3,E7EPB1,TET2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt E7EPB1)
+ENST00000505801.1,+,2,,TET2,,tet methylcytosine dioxygenase 2 (from HGNC TET2)
+ENST00000514870.1,+,3,D6RE87,TET2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RE87)
+ENST00000515414.1,-,5,,TET2-AS1,,TET2 antisense RNA 1 (from HGNC TET2-AS1)
+ENST00000480252.3,+,1,,RN7SL89P,,"RNA, 7SL, cytoplasmic 89, pseudogene (from HGNC RN7SL89P)"
+ENST00000341695.10,-,12,Q9H2U2,PPA2,NM_176869,"Homo sapiens inorganic pyrophosphatase 2 (PPA2), transcript variant 1, mRNA; nuclear gene for mitochondrial product. (from RefSeq NM_176869)"
+ENST00000348706.9,-,11,Q9H2U2,PPA2,NM_006903,"Homo sapiens inorganic pyrophosphatase 2 (PPA2), transcript variant 2, mRNA; nuclear gene for mitochondrial product. (from RefSeq NM_006903)"
+ENST00000509031.5,-,13,A0A0C4DGB9,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000354147.7,-,6,Q9H2U2,PPA2,NM_176867,"Homo sapiens inorganic pyrophosphatase 2 (PPA2), transcript variant 4, mRNA; nuclear gene for mitochondrial product. (from RefSeq NM_176867)"
+ENST00000513605.5,-,5,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000515567.5,-,4,H0YAK2,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0YAK2)
+ENST00000351450.10,-,10,F8W7R6,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt F8W7R6)
+ENST00000432483.6,-,8,Q9H2U2,PPA2,NM_176866,"Homo sapiens inorganic pyrophosphatase 2 (PPA2), transcript variant 3, mRNA; nuclear gene for mitochondrial product. (from RefSeq NM_176866)"
+ENST00000503171.5,-,7,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000510015.5,-,6,D6R967,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R967)
+ENST00000509426.5,-,9,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000508518.5,-,7,H0Y9D8,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0Y9D8)
+ENST00000514209.5,-,5,F8W7R6,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt F8W7R6)
+ENST00000506815.5,-,7,H0Y8X2,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0Y8X2)
+ENST00000457404.6,-,8,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000364047.1,+,1,,RNU6-553P,,"RNA, U6 small nuclear 553, pseudogene (from HGNC RNU6-553P)"
+ENST00000502833.5,-,8,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000504028.5,-,7,D6RGV9,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RGV9)
+ENST00000502596.5,-,6,D6RGI1,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RGI1)
+ENST00000513649.1,-,7,D6RAD3,PPA2,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RAD3)
+ENST00000499847.6,-,5,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000502610.1,-,2,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000505713.1,-,2,,PPA2,,pyrophosphatase (inorganic) 2 (from HGNC PPA2)
+ENST00000514975.1,+,1,,EEF1A1P9,,eukaryotic translation elongation factor 1 alpha 1 pseudogene 9 (from HGNC EEF1A1P9)
+ENST00000502488.1,-,1,,PIMREGP2,,PIMREGP2 (from geneSymbol)
+ENST00000510257.1,+,1,,ATP5F1EP1,,ATP synthase F1 subunit epsilon pseudogene 1 (from HGNC ATP5F1EP1)
+ENST00000514879.1,-,4,,ENSG00000250522,,ENSG00000250522 (from geneSymbol)
+ENST00000265154.6,+,4,Q9NXL2,ARHGEF38,NM_017700,"Homo sapiens Rho guanine nucleotide exchange factor 38 (ARHGEF38), transcript variant 2, mRNA. (from RefSeq NM_017700)"
+ENST00000420470.3,+,14,Q9NXL2,ARHGEF38,NM_001242729,"Homo sapiens Rho guanine nucleotide exchange factor 38 (ARHGEF38), transcript variant 1, mRNA. (from RefSeq NM_001242729)"
+ENST00000506828.1,+,4,,ARHGEF38,,Rho guanine nucleotide exchange factor 38 (from HGNC ARHGEF38)
+ENST00000512262.1,+,3,,ARHGEF38-IT1,NR_046840,"Homo sapiens ARHGEF38 intronic transcript 1 (ARHGEF38-IT1), long non-coding RNA. (from RefSeq NR_046840)"
+ENST00000508036.2,+,10,,ARHGEF38,,Rho guanine nucleotide exchange factor 38 (from HGNC ARHGEF38)
+ENST00000503289.1,+,5,,ARHGEF38,,Rho guanine nucleotide exchange factor 38 (from HGNC ARHGEF38)
+ENST00000503155.1,-,1,,ENSG00000248778,,ENSG00000248778 (from geneSymbol)
+ENST00000340139.10,-,8,Q96CB8,INTS12,NM_020395,"Homo sapiens integrator complex subunit 12 (INTS12), transcript variant 1, mRNA. (from RefSeq NM_020395)"
+ENST00000394735.5,-,8,Q96CB8,INTS12,,"Component of the Integrator complex, a complex involved  in the small nuclear RNAs (snRNA) U1 and U2 transcription and in  their 3'-box-dependent processing. The Integrator complex is  associated with the C-terminal domain (CTD) of RNA polymerase II  largest subunit (POLR2A) and is recruited to the U1 and U2 snRNAs  genes. (from UniProt Q96CB8)"
+ENST00000451321.6,-,7,Q96CB8,INTS12,NM_001142471,"Homo sapiens integrator complex subunit 12 (INTS12), transcript variant 2, mRNA. (from RefSeq NM_001142471)"
+ENST00000493425.1,-,2,,INTS12,,integrator complex subunit 12 (from HGNC INTS12)
+ENST00000503746.5,-,5,E9PGI3,INTS12,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt E9PGI3)
+ENST00000420368.6,-,6,C9J0M6,INTS12,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt C9J0M6)
+ENST00000510406.1,+,6,,ARHGEF38,,Rho guanine nucleotide exchange factor 38 (from HGNC ARHGEF38)
+ENST00000416543.5,-,3,C9JDP3,INTS12,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt C9JDP3)
+ENST00000433009.1,-,4,A0A1B0GX90,INTS12,,integrator complex subunit 12 (from HGNC INTS12)
+ENST00000510876.1,-,4,D6R9W3,INTS12,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R9W3)
+ENST00000515819.1,-,2,D6R9Y5,INTS12,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R9Y5)
+ENST00000508961.1,+,3,,ARHGEF38,,Rho guanine nucleotide exchange factor 38 (from HGNC ARHGEF38)
+ENST00000512828.1,+,2,D6R949,GSTCD,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R949)
+ENST00000515279.6,+,12,Q8NEC7,GSTCD,NM_001370181,"Homo sapiens glutathione S-transferase C-terminal domain containing (GSTCD), transcript variant 3, mRNA. (from RefSeq NM_001370181)"
+ENST00000394730.7,+,12,Q8NEC7,GSTCD,NM_024751,"Homo sapiens glutathione S-transferase C-terminal domain containing (GSTCD), transcript variant 2, mRNA. (from RefSeq NM_024751)"
+ENST00000515255.5,+,10,,GSTCD,,glutathione S-transferase C-terminal domain containing (from HGNC GSTCD)
+ENST00000484843.1,+,6,,GSTCD,,glutathione S-transferase C-terminal domain containing (from HGNC GSTCD)
+ENST00000507281.5,+,6,D6R9W2,GSTCD,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R9W2)
+ENST00000360505.9,+,12,Q8NEC7,GSTCD,NM_001031720,"Homo sapiens glutathione S-transferase C-terminal domain containing (GSTCD), transcript variant 1, mRNA. (from RefSeq NM_001031720)"
+ENST00000510865.5,+,3,D6RCC4,GSTCD,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RCC4)
+ENST00000509336.5,+,3,D6RCC9,GSTCD,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RCC9)
+ENST00000394728.4,+,12,Q8NEC7,GSTCD,,Belongs to the GSTCD family. (from UniProt Q8NEC7)
+ENST00000503409.1,+,2,,GSTCD,,glutathione S-transferase C-terminal domain containing (from HGNC GSTCD)
+ENST00000504955.1,-,4,,GSTCD-AS1,,GSTCD-AS1 (from geneSymbol)
+ENST00000506527.5,-,6,,GSTCD-AS1,,GSTCD-AS1 (from geneSymbol)
+ENST00000509003.1,-,4,,GSTCD-AS1,NR_125927,"Homo sapiens GSTCD antisense RNA 1 (GSTCD-AS1), long non-coding RNA. (from RefSeq NR_125927)"
+ENST00000504304.5,+,5,D6RE63,NPNT,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RE63)
+ENST00000453617.6,+,13,Q6UXI9,NPNT,NM_001184690,"Homo sapiens nephronectin (NPNT), transcript variant 1, mRNA. (from RefSeq NM_001184690)"
+ENST00000514622.5,+,11,Q6UXI9,NPNT,NM_001184692,"Homo sapiens nephronectin (NPNT), transcript variant 4, mRNA. (from RefSeq NM_001184692)"
+ENST00000427316.6,+,13,Q6UXI9,NPNT,NM_001184691,"Homo sapiens nephronectin (NPNT), transcript variant 3, mRNA. (from RefSeq NM_001184691)"
+ENST00000305572.12,+,11,Q6UXI9,NPNT,,"Functional ligand of integrin alpha-8/beta-1 in kidney  development. Regulates the expression of GDNF with integrin alpha-  8/beta-1 which is essential for kidney development. May also play  a role in the development and function of various tissues,  regulating cell adhesion, spreading and survival through the  binding of several integrins (By similarity). (from UniProt Q6UXI9)"
+ENST00000379987.7,+,12,Q6UXI9,NPNT,NM_001033047,"Homo sapiens nephronectin (NPNT), transcript variant 2, mRNA. (from RefSeq NM_001033047)"
+ENST00000506666.5,+,12,Q6UXI9,NPNT,NM_001184693,"Homo sapiens nephronectin (NPNT), transcript variant 5, mRNA. (from RefSeq NM_001184693)"
+ENST00000503451.5,+,14,D6RH31,NPNT,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RH31)
+ENST00000514837.1,+,10,H0YAK9,NPNT,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0YAK9)
+ENST00000513430.5,+,7,,NPNT,,nephronectin (from HGNC NPNT)
+ENST00000506056.5,+,4,,NPNT,,nephronectin (from HGNC NPNT)
+ENST00000511518.1,+,2,,NPNT,,nephronectin (from HGNC NPNT)
+ENST00000505821.1,+,6,,NPNT,,nephronectin (from HGNC NPNT)
+ENST00000511059.1,-,2,,ENSG00000250740,,ENSG00000250740 (from geneSymbol)
+ENST00000512514.1,-,2,,ENSG00000250740,,ENSG00000250740 (from geneSymbol)
+ENST00000514632.1,+,3,,NPNT,,nephronectin (from HGNC NPNT)
+ENST00000504787.1,+,2,H0Y8M1,NPNT,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0Y8M1)
+ENST00000505917.1,+,2,H0YA60,NPNT,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0YA60)
+ENST00000513220.1,-,4,,ENSG00000249635,NR_125928,"Homo sapiens uncharacterized LOC101929577 (LOC101929577), long non-coding RNA. (from RefSeq NR_125928)"
+ENST00000394708.7,-,26,Q8TEA7,TBCK,NM_001163435,"Homo sapiens TBC1 domain containing kinase (TBCK), transcript variant 1, mRNA. (from RefSeq NM_001163435)"
+ENST00000273980.10,-,26,Q8TEA7,TBCK,NM_001163436,"Homo sapiens TBC1 domain containing kinase (TBCK), transcript variant 2, mRNA. (from RefSeq NM_001163436)"
+ENST00000510927.5,-,17,,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000361687.8,-,24,Q8TEA7,TBCK,NM_033115,"Homo sapiens TBC1 domain containing kinase (TBCK), transcript variant 4, mRNA. (from RefSeq NM_033115)"
+ENST00000394706.7,-,26,Q8TEA7,TBCK,NM_001163437,"Homo sapiens TBC1 domain containing kinase (TBCK), transcript variant 3, mRNA. (from RefSeq NM_001163437)"
+ENST00000467183.6,-,27,Q5HYF5,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000514689.5,-,5,,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000515705.5,-,6,,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000506384.1,-,3,,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000511011.5,-,5,,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000506615.1,-,4,,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000508666.5,-,9,H0Y8U7,TBCK,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0Y8U7)
+ENST00000503516.1,-,7,D6RC61,TBCK,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RC61)
+ENST00000505574.1,-,3,H0YA45,TBCK,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0YA45)
+ENST00000503832.1,-,5,H0Y959,TBCK,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt H0Y959)
+ENST00000506280.1,-,6,,TBCK,,TBC1 domain containing kinase (from HGNC TBCK)
+ENST00000509532.5,-,6,D6RDG2,TBCK,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RDG2)
+ENST00000509862.5,-,4,D6RDY5,TBCK,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6RDY5)
+ENST00000507696.1,-,4,D6R950,TBCK,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R950)
+ENST00000510207.5,+,5,D6R937,AIMP1,,The sequence shown here is derived from an Ensembl  automatic analysis pipeline and should be considered as  preliminary data. (from UniProt D6R937)
+ENST00000358008.7,+,7,Q12904,AIMP1,NM_004757,"Homo sapiens aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (AIMP1), transcript variant 1, mRNA. (from RefSeq NM_004757)"
+ENST00000682186.1,+,1,,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000684504.1,+,7,A0A804HJ47,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000442366.6,+,6,A0A8C8MUD1,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000394701.6,+,6,A0A8C8KIA0,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000672337.1,+,8,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000672341.1,+,7,Q12904,AIMP1,NM_001142416,"Homo sapiens aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (AIMP1), transcript variant 3, mRNA. (from RefSeq NM_001142416)"
+ENST00000671868.1,+,8,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000672003.1,+,8,A0A5F9ZHC5,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000673123.1,+,7,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000672911.1,+,9,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000672328.1,+,7,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000672285.1,+,7,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000671960.1,+,7,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000673381.2,+,6,,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000673018.1,+,7,Q12904,AIMP1,,Non-catalytic component of the multisynthase complex.  Stimulates the catalytic activity of cytoplasmic arginyl-tRNA  synthase. Binds tRNA. Possesses inflammatory cytokine activity.  Negatively regulates TGF-beta signaling through stabilization of  SMURF2 by binding to SMURF2 and inhibiting its SMAD7-mediated  degradation. Involved in glucose homeostasis through induction of  glucagon secretion at low glucose levels. Promotes dermal  fibroblast proliferation and wound repair. Regulates KDELR1-  mediated retention of HSP90B1/gp96 in the endoplasmic reticulum.  Plays a role in angiogenesis by inducing endothelial cell  migration at low concentrations and endothelian cell apoptosis at  high concentrations. Induces maturation of dendritic cells and  monocyte cell adhesion. Modulates endothelial cell responses by  degrading HIF-1A through interaction with PSMA7. (from UniProt Q12904)
+ENST00000683179.1,+,6,,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000684019.1,+,2,,AIMP1,,aminoacyl tRNA synthetase complex interacting multifunctional protein 1 (from HGNC AIMP1)
+ENST00000638719.4,-,3,P0DJR0,GIMD1,NM_001195138,"Homo sapiens GIMAP family P-loop NTPase domain containing 1 (GIMD1), mRNA. (from RefSeq NM_001195138)"
+ENST00000507153.2,-,2,P0DJR0,GIMD1,,Belongs to the IAN GTP-binding protein family. (from UniProt P0DJR0)
+ENST00000667859.1,+,3,,LINC02173,,long intergenic non-protein coding RNA 2173 (from HGNC LINC02173)
+ENST00000654498.1,+,4,,LINC02173,,long intergenic non-protein coding RNA 2173 (from HGNC LINC02173)
+ENST00000504132.1,+,4,,LINC02173,NR_147150,"Homo sapiens long intergenic non-protein coding RNA 2173 (LINC02173), long non-coding RNA. (from RefSeq NR_147150)"
+ENST00000650850.1,+,11,,ENSG00000286147,,ENSG00000286147 (from geneSymbol)

@@ -1,0 +1,19 @@
+Gene(s)	Protein change	Condition(s)	Accession	VariationID	AlleleID(s)	dbSNP ID	Canonical SPDI	Variant type	Molecular consequence	Germline classification
+multiple		not specified	VCV003062772	3062772	3222992			copy number loss		Pathogenic
+multiple		not specified	VCV003062757	3062757	3222977			copy number loss		Pathogenic
+multiple		not provided	VCV002424810	2424810	1949888			Deletion		Pathogenic
+multiple		not provided	VCV001456123	1456123	1458064			Deletion		Pathogenic
+BDH2	D97N	Inborn genetic diseases	VCV002616465	2616465	2785035		NC_000004.12:103091244:C:T	single nucleotide variant	missense variant	Uncertain significance
+BDH2	R3Q	Inborn genetic diseases	VCV002508412	2508412	2679233		NC_000004.12:103096246:C:T	single nucleotide variant	missense variant	Uncertain significance
+BDH2	G88E	Inborn genetic diseases	VCV002482154	2482154	2458667		NC_000004.12:103091270:C:T	single nucleotide variant	missense variant	Uncertain significance
+BDH2	A23P	Inborn genetic diseases	VCV002459719	2459719	2431950		NC_000004.12:103096187:C:G	single nucleotide variant	missense variant	Uncertain significance
+BDH2	V154M	Inborn genetic diseases	VCV002392869	2392869	2384503		NC_000004.12:103085420:C:T	single nucleotide variant	missense variant	Uncertain significance
+BDH2	P50L	Inborn genetic diseases	VCV002359543	2359543	2355425		NC_000004.12:103095204:G:A	single nucleotide variant	missense variant	Uncertain significance
+BDH2	A27V	Inborn genetic diseases	VCV002293454	2293454	2286709		NC_000004.12:103095273:G:A	single nucleotide variant	missense variant	Uncertain significance
+BDH2	D58V	Inborn genetic diseases	VCV002277519	2277519	2269930		NC_000004.12:103092674:T:A	single nucleotide variant	missense variant	Uncertain significance
+BDH2	N200K	Inborn genetic diseases	VCV002211388	2211388	2204771		NC_000004.12:103082164:A:T	single nucleotide variant	missense variant	Uncertain significance
+BDH2	A14T	Inborn genetic diseases	VCV002208100	2208100	2204082		NC_000004.12:103096214:C:T	single nucleotide variant	missense variant	Uncertain significance
+BDH2	E29D	not provided	VCV000788978	788978	709103	rs76142480	NC_000004.12:103095266:T:G	single nucleotide variant	missense variant	Benign
+BDH2		not provided	VCV000784042	784042	709102	rs60495707	NC_000004.12:103082915:C:T	single nucleotide variant	synonymous variant	Benign
+multiple		"Immunodeficiency, common variable, 12"	VCV001703532	1703532	1695923			copy number loss		Likely pathogenic
+multiple		not provided	VCV000814592	814592	802802			copy number loss		Uncertain significance

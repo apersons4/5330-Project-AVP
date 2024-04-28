@@ -1,0 +1,40 @@
+Gene(s)	Protein change	Condition(s)	Accession	VariationID	AlleleID(s)	dbSNP ID	Variant type	Molecular consequence	Germline classification
+ADH1A|ADH1B|ADH1C|ADH7|AIMP1|ARHGEF38|BANK1|BDH2|C4orf17|CENPE|CISD2|CXXC4|DAPP1|DDIT4L|DKK2|DNAJB14|EMCN|GIMD1|GSTCD|H2AZ1|INTS12|LAMTOR3|MANBA|MTTP|NFKB1|NPNT|PPA2|PPP3CA|SLC39A8|SLC9B1|SLC9B2|TACR3|TBCK|TET2|TRMT10A|UBE2D3		not specified	VCV003062772	3062772	3222992		copy number loss		Pathogenic
+ADH1A|ADH1B|ADH1C|ADH4|ADH5|ADH6|ADH7|AIMP1|ARHGEF38|BANK1|BDH2|C4orf17|CENPE|CISD2|CXXC4|DAPP1|DDIT4L|DNAJB14|EIF4E|EMCN|GSTCD|H2AZ1|INTS12|LAMTOR3|MANBA|METAP1|MTTP|NFKB1|NPNT|PPA2|PPP3CA|RAP1GDS1|SLC39A8|SLC9B1|SLC9B2|TACR3|TBCK|TET2|TRMT10A|TSPAN5|UBE2D3		not specified	VCV003062757	3062757	3222977		copy number loss		Pathogenic
+LOC129992920|NPNT	E20A	Inborn genetic diseases	VCV002588032	2588032	2760856		single nucleotide variant	missense variant	Uncertain significance
+LOC129992920|NPNT	E20G	Inborn genetic diseases	VCV002392633	2392633	2375031		single nucleotide variant	missense variant	Uncertain significance
+LOC129992920|NPNT	V10I	Inborn genetic diseases	VCV002346442	2346442	2341464		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"Y238*, Y255*, Y268*"	not provided	VCV003065065	3065065	3225186		single nucleotide variant	nonsense	Uncertain significance
+NPNT	"P381L, P398L, P411L"	not provided	VCV002655007	2655007	2820091		single nucleotide variant	missense variant	Likely benign
+NPNT	"P156L, P173L, P186L"	not provided	VCV002655006	2655006	2820090		single nucleotide variant	missense variant	Likely benign
+NPNT		not provided	VCV002655005	2655005	2820089		single nucleotide variant	synonymous variant	Likely benign
+NPNT		not provided	VCV002655004	2655004	2820088		single nucleotide variant	synonymous variant	Likely benign
+NPNT	"S322N, S292N, S309N"	Inborn genetic diseases	VCV002606245	2606245	2772181		single nucleotide variant	missense variant	Uncertain significance
+NPNT	R37H	Inborn genetic diseases	VCV002594483	2594483	2765534		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"G353R, G370R, G383R"	Inborn genetic diseases	VCV002563079	2563079	2733536		single nucleotide variant	missense variant	Likely benign
+NPNT	"N515I, N486I, N516I, N545I, N532I"	Inborn genetic diseases	VCV002544612	2544612	2709633		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"I302V, I319V, I332V"	Inborn genetic diseases	VCV002541736	2541736	2705437		single nucleotide variant	missense variant	Uncertain significance
+NPNT	R37C	Inborn genetic diseases	VCV002539398	2539398	2708376		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"G312R, G282R, G299R"	Inborn genetic diseases	VCV002530285	2530285	2688659		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"M204I, M234I, M221I"	Inborn genetic diseases	VCV002477131	2477131	2457594		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"L428V, L399V, L429V, L445V, L458V"	Inborn genetic diseases	VCV002476845	2476845	2457308		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"D455G, D425G, D426G, D396G, D442G"	Inborn genetic diseases	VCV002458620	2458620	2431729		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"R560C, R543C, R544C, R514C, R573C"	Inborn genetic diseases	VCV002456800	2456800	2431227		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"T363I, T376I, T346I"	Inborn genetic diseases	VCV002404990	2404990	2391093		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"R445H, R474H, R475H, R491H, R504H"	Inborn genetic diseases	VCV002392349	2392349	2377607		single nucleotide variant	missense variant	Likely benign
+NPNT	"P352A, P322A, P339A"	Inborn genetic diseases	VCV002385220	2385220	2379950		single nucleotide variant	missense variant	Uncertain significance
+NPNT	I42T	Inborn genetic diseases	VCV002379692	2379692	2367840		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"G506S, G535S, G505S, G522S, G476S"	Inborn genetic diseases	VCV002353272	2353272	2343013		single nucleotide variant	missense variant	Likely benign
+NPNT	"C197Y, C227Y, C214Y"	Inborn genetic diseases	VCV002352346	2352346	2336375		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"T471S, T454S, T455S, T425S, T484S"	Inborn genetic diseases	VCV002305633	2305633	2293686		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"M152V, M165V, M135V"	Inborn genetic diseases	VCV002287449	2287449	2282441		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"Y452H, Y453H, Y469H, Y482H, Y423H"	Inborn genetic diseases	VCV002268861	2268861	2250486		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"D219N, D202N, D232N"	Inborn genetic diseases	VCV002265872	2265872	2259597		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"T380I, T393I, T363I"	Inborn genetic diseases	VCV002264884	2264884	2252562		single nucleotide variant	missense variant	Uncertain significance
+NPNT	R50H	Inborn genetic diseases	VCV002260311	2260311	2248424		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"R499P, R545P, R558P, R528P, R529P"	Inborn genetic diseases	VCV002240378	2240378	2225921		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"H507R, H477R, H448R, H478R, H494R"	Inborn genetic diseases	VCV002226771	2226771	2218801		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"R542G, R543G, R559G, R513G, R572G"	Inborn genetic diseases	VCV002215436	2215436	2202332		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"R528Q, R529Q, R558Q, R545Q, R499Q"	Inborn genetic diseases	VCV002211605	2211605	2201099		single nucleotide variant	missense variant	Uncertain significance
+NPNT	"G546V, G487V, G517V, G533V, G516V"	Inborn genetic diseases	VCV002211604	2211604	2201098		single nucleotide variant	missense variant	Uncertain significance
+NPNT|DKK2|PAPSS1|ARHGEF38|GIMD1|AIMP1|GSTCD|TBCK|INTS12		not provided	VCV000562953	562953	554137		copy number loss		Uncertain significance
