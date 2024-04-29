@@ -1,0 +1,17 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList
+78403369,single nucleotide variant,NM_016242.4(EMCN):c.313G>A (p.Val105Ile),EMCN,Benign,not provided
+77192045,single nucleotide variant,NM_016242.4(EMCN):c.726C>T (p.Thr242=),EMCN,Benign,not provided
+-1,single nucleotide variant,NM_016242.4(EMCN):c.457A>T (p.Thr153Ser),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.295G>A (p.Asp99Asn),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.716A>G (p.Lys239Arg),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.118A>G (p.Ile40Val),EMCN,Likely benign,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.727G>A (p.Val243Ile),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.625C>G (p.Leu209Val),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.173G>C (p.Gly58Ala),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.691C>A (p.Pro231Thr),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.586G>T (p.Val196Phe),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.244A>G (p.Thr82Ala),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.377C>A (p.Thr126Asn),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.359A>G (p.Gln120Arg),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.61A>G (p.Thr21Ala),EMCN,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_016242.4(EMCN):c.757C>T (p.His253Tyr),EMCN,Uncertain significance,Inborn genetic diseases

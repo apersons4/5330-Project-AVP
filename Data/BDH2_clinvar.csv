@@ -1,0 +1,13 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList
+60495707,single nucleotide variant,NM_020139.4(BDH2):c.546G>A (p.Thr182=),BDH2,Benign,not provided
+76142480,single nucleotide variant,NM_020139.4(BDH2):c.87A>C (p.Glu29Asp),BDH2,Benign,not provided
+-1,single nucleotide variant,NM_020139.4(BDH2):c.40G>A (p.Ala14Thr),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.600T>A (p.Asn200Lys),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.173A>T (p.Asp58Val),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.80C>T (p.Ala27Val),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.149C>T (p.Pro50Leu),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.460G>A (p.Val154Met),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.67G>C (p.Ala23Pro),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.263G>A (p.Gly88Glu),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.8G>A (p.Arg3Gln),BDH2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_020139.4(BDH2):c.289G>A (p.Asp97Asn),BDH2,Uncertain significance,Inborn genetic diseases

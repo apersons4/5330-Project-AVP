@@ -1,0 +1,47 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList,Disease
+1426654,single nucleotide variant,NM_205850.3(SLC24A5):c.331= (p.Thr111=),SLC24A5,association,"Skin/hair/eye pigmentation, variation in, 4","Skin/hair/eye pigmentation, variation in, 4"
+1426654,single nucleotide variant,NM_205850.3(SLC24A5):c.331= (p.Thr111=),SLC24A5,association,"Skin/hair/eye pigmentation, variation in, 4","Skin/hair/eye pigmentation, variation in, 4"
+886037642,Insertion,NM_205850.3(SLC24A5):c.571_572insTAAT (p.Tyr191fs),SLC24A5,association,"Skin/hair/eye pigmentation, variation in, 4","Skin/hair/eye pigmentation, variation in, 4"
+886037642,Insertion,NM_205850.3(SLC24A5):c.571_572insTAAT (p.Tyr191fs),SLC24A5,association,"Skin/hair/eye pigmentation, variation in, 4","Skin/hair/eye pigmentation, variation in, 4"
+886037643,single nucleotide variant,NM_205850.3(SLC24A5):c.591G>A (p.Trp197Ter),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+886037643,single nucleotide variant,NM_205850.3(SLC24A5):c.591G>A (p.Trp197Ter),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+886037644,Duplication,NM_205850.3(SLC24A5):c.1361dup (p.Leu454fs),SLC24A5,Likely pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+886037644,Duplication,NM_205850.3(SLC24A5):c.1361dup (p.Leu454fs),SLC24A5,Likely pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+138902406,single nucleotide variant,NM_205850.3(SLC24A5):c.534G>A (p.Ala178=),SLC24A5,Conflicting classifications of pathogenicity,SLC24A5-related condition,SLC24A5-related condition
+138902406,single nucleotide variant,NM_205850.3(SLC24A5):c.534G>A (p.Ala178=),SLC24A5,Conflicting classifications of pathogenicity,SLC24A5-related condition,SLC24A5-related condition
+1555452574,single nucleotide variant,NM_205850.3(SLC24A5):c.528T>A (p.Cys176Ter),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+1555452574,single nucleotide variant,NM_205850.3(SLC24A5):c.528T>A (p.Cys176Ter),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+772398324,Deletion,NM_205850.3(SLC24A5):c.641del (p.Leu214fs),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+772398324,Deletion,NM_205850.3(SLC24A5):c.641del (p.Leu214fs),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+1555452572,single nucleotide variant,NM_205850.3(SLC24A5):c.521G>A (p.Arg174Lys),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+1555452572,single nucleotide variant,NM_205850.3(SLC24A5):c.521G>A (p.Arg174Lys),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+977118193,single nucleotide variant,NM_205850.3(SLC24A5):c.503C>G (p.Ser168Ter),SLC24A5,Pathogenic,"Skin/hair/eye pigmentation, variation in, 4","Skin/hair/eye pigmentation, variation in, 4"
+977118193,single nucleotide variant,NM_205850.3(SLC24A5):c.503C>G (p.Ser168Ter),SLC24A5,Pathogenic,"Skin/hair/eye pigmentation, variation in, 4","Skin/hair/eye pigmentation, variation in, 4"
+1450652793,single nucleotide variant,NM_205850.3(SLC24A5):c.1078+1G>A,SLC24A5,Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+1450652793,single nucleotide variant,NM_205850.3(SLC24A5):c.1078+1G>A,SLC24A5,Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+184818838,single nucleotide variant,NM_205850.3(SLC24A5):c.932C>A (p.Ser311Tyr),SLC24A5,Likely benign,SLC24A5-related condition,SLC24A5-related condition
+184818838,single nucleotide variant,NM_205850.3(SLC24A5):c.932C>A (p.Ser311Tyr),SLC24A5,Likely benign,SLC24A5-related condition,SLC24A5-related condition
+753732275,single nucleotide variant,NM_205850.3(SLC24A5):c.989G>A (p.Trp330Ter),SLC24A5,Pathogenic,Inborn genetic diseases,Inborn genetic diseases
+753732275,single nucleotide variant,NM_205850.3(SLC24A5):c.989G>A (p.Trp330Ter),SLC24A5,Pathogenic,Inborn genetic diseases,Inborn genetic diseases
+181488402,single nucleotide variant,NM_205850.3(SLC24A5):c.1425C>T (p.Tyr475=),SLC24A5,Likely benign,SLC24A5-related condition,SLC24A5-related condition
+181488402,single nucleotide variant,NM_205850.3(SLC24A5):c.1425C>T (p.Tyr475=),SLC24A5,Likely benign,SLC24A5-related condition,SLC24A5-related condition
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.290T>C (p.Ile97Thr),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.290T>C (p.Ile97Thr),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1169T>C (p.Val390Ala),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1169T>C (p.Val390Ala),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1331C>G (p.Ser444Cys),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1331C>G (p.Ser444Cys),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.666A>C (p.Gln222His),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.666A>C (p.Gln222His),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.193A>G (p.Arg65Gly),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.193A>G (p.Arg65Gly),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1097C>T (p.Pro366Leu),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1097C>T (p.Pro366Leu),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1318T>A (p.Tyr440Asn),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1318T>A (p.Tyr440Asn),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.494C>G (p.Ser165Ter),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.494C>G (p.Ser165Ter),SLC24A5,Pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1213G>A (p.Gly405Arg),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.1213G>A (p.Gly405Arg),SLC24A5,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.301+1G>T,SLC24A5,Likely pathogenic,Oculocutaneous albinism type 6,Albinism Condition
+-1,single nucleotide variant,NM_205850.3(SLC24A5):c.301+1G>T,SLC24A5,Likely pathogenic,Oculocutaneous albinism type 6,Albinism Condition

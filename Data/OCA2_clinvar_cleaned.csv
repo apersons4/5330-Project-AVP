@@ -1,0 +1,630 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList,Disease
+1555375711,Deletion,NM_000275.2(OCA2):c.646+1823_807+678delinsAAA,OCA2,Pathogenic,"Brown oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+1555375711,Deletion,NM_000275.2(OCA2):c.646+1823_807+678delinsAAA,OCA2,Pathogenic,"Brown oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+387906240,single nucleotide variant,NM_000275.3(OCA2):c.1842+1G>T,OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Oculocutaneous albinism",Albinism Condition
+387906240,single nucleotide variant,NM_000275.3(OCA2):c.1842+1G>T,OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Oculocutaneous albinism",Albinism Condition
+74653330,single nucleotide variant,NM_000275.3(OCA2):c.1441G>A (p.Ala481Thr),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+74653330,single nucleotide variant,NM_000275.3(OCA2):c.1441G>A (p.Ala481Thr),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+121918166,single nucleotide variant,NM_000275.3(OCA2):c.1327G>A (p.Val443Ile),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Inborn genetic diseases,See cases,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+121918166,single nucleotide variant,NM_000275.3(OCA2):c.1327G>A (p.Val443Ile),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Inborn genetic diseases,See cases,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+121918167,single nucleotide variant,NM_000275.3(OCA2):c.2228C>T (p.Pro743Leu),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Nonsyndromic Oculocutaneous Albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+121918167,single nucleotide variant,NM_000275.3(OCA2):c.2228C>T (p.Pro743Leu),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Nonsyndromic Oculocutaneous Albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+387906241,Deletion,NM_000275.3(OCA2):c.1960del (p.Ala654fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+387906241,Deletion,NM_000275.3(OCA2):c.1960del (p.Ala654fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+121918168,single nucleotide variant,NM_000275.3(OCA2):c.1001C>T (p.Ala334Val),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+121918168,single nucleotide variant,NM_000275.3(OCA2):c.1001C>T (p.Ala334Val),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,Deletion,NG_009846.1:g.103171_225796del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NG_009846.1:g.103171_225796del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+121918169,single nucleotide variant,NM_000275.3(OCA2):c.2037G>C (p.Trp679Cys),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+121918169,single nucleotide variant,NM_000275.3(OCA2):c.2037G>C (p.Trp679Cys),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+121918170,single nucleotide variant,NM_000275.3(OCA2):c.1465A>G (p.Asn489Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Oculocutaneous albinism,OCA2-related condition",Albinism Condition
+121918170,single nucleotide variant,NM_000275.3(OCA2):c.1465A>G (p.Asn489Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Oculocutaneous albinism,OCA2-related condition",Albinism Condition
+1800401,single nucleotide variant,NM_000275.3(OCA2):c.913C>T (p.Arg305Trp),OCA2,Benign,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1800401,single nucleotide variant,NM_000275.3(OCA2):c.913C>T (p.Arg305Trp),OCA2,Benign,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1800407,single nucleotide variant,NM_000275.3(OCA2):c.1256G>A (p.Arg419Gln),OCA2,Benign,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+1800407,single nucleotide variant,NM_000275.3(OCA2):c.1256G>A (p.Arg419Gln),OCA2,Benign,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+121918171,single nucleotide variant,NM_000275.3(OCA2):c.1182G>A (p.Met394Ile),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+121918171,single nucleotide variant,NM_000275.3(OCA2):c.1182G>A (p.Met394Ile),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,nsv1197574,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,nsv1197574,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+755604671,single nucleotide variant,NM_000275.3(OCA2):c.1045-9T>G,OCA2,Conflicting classifications of pathogenicity,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+755604671,single nucleotide variant,NM_000275.3(OCA2):c.1045-9T>G,OCA2,Conflicting classifications of pathogenicity,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+1800405,single nucleotide variant,NM_000275.3(OCA2):c.1113C>T (p.Gly371=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800405,single nucleotide variant,NM_000275.3(OCA2):c.1113C>T (p.Gly371=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+61745150,single nucleotide variant,NM_000275.3(OCA2):c.1103C>T (p.Ala368Val),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Inborn genetic diseases,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+61745150,single nucleotide variant,NM_000275.3(OCA2):c.1103C>T (p.Ala368Val),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Inborn genetic diseases,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+757286784,single nucleotide variant,NM_000275.3(OCA2):c.1183A>C (p.Met395Leu),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+757286784,single nucleotide variant,NM_000275.3(OCA2):c.1183A>C (p.Met395Leu),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+757119713,single nucleotide variant,NM_000275.3(OCA2):c.1239+5G>C,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+757119713,single nucleotide variant,NM_000275.3(OCA2):c.1239+5G>C,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+10852218,single nucleotide variant,NM_000275.3(OCA2):c.1183-4A>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+10852218,single nucleotide variant,NM_000275.3(OCA2):c.1183-4A>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+376863406,single nucleotide variant,NM_000275.3(OCA2):c.1226A>G (p.Tyr409Cys),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+376863406,single nucleotide variant,NM_000275.3(OCA2):c.1226A>G (p.Tyr409Cys),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+143218168,single nucleotide variant,NM_000275.3(OCA2):c.1255C>T (p.Arg419Trp),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+143218168,single nucleotide variant,NM_000275.3(OCA2):c.1255C>T (p.Arg419Trp),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+151225947,single nucleotide variant,NM_000275.3(OCA2):c.1752C>T (p.His584=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+151225947,single nucleotide variant,NM_000275.3(OCA2):c.1752C>T (p.His584=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+371412500,single nucleotide variant,NM_000275.3(OCA2):c.2020C>G (p.Leu674Val),OCA2,Conflicting classifications of pathogenicity,"Inborn genetic diseases,6 conditions,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+371412500,single nucleotide variant,NM_000275.3(OCA2):c.2020C>G (p.Leu674Val),OCA2,Conflicting classifications of pathogenicity,"Inborn genetic diseases,6 conditions,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+202091837,single nucleotide variant,NM_000275.3(OCA2):c.45G>A (p.Pro15=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+202091837,single nucleotide variant,NM_000275.3(OCA2):c.45G>A (p.Pro15=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+780296175,single nucleotide variant,NM_000275.3(OCA2):c.2207C>T (p.Ser736Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+780296175,single nucleotide variant,NM_000275.3(OCA2):c.2207C>T (p.Ser736Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1800419,single nucleotide variant,NM_000275.3(OCA2):c.2328T>C (p.Ala776=),OCA2,Benign,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1800419,single nucleotide variant,NM_000275.3(OCA2):c.2328T>C (p.Ala776=),OCA2,Benign,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+145968118,single nucleotide variant,NM_000275.3(OCA2):c.2293G>A (p.Ala765Thr),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+145968118,single nucleotide variant,NM_000275.3(OCA2):c.2293G>A (p.Ala765Thr),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+765779905,single nucleotide variant,NM_000275.3(OCA2):c.2425T>A (p.Phe809Ile),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+765779905,single nucleotide variant,NM_000275.3(OCA2):c.2425T>A (p.Phe809Ile),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+183487020,single nucleotide variant,NM_000275.3(OCA2):c.593C>T (p.Pro198Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+183487020,single nucleotide variant,NM_000275.3(OCA2):c.593C>T (p.Pro198Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+190612616,single nucleotide variant,NM_000275.3(OCA2):c.632C>T (p.Pro211Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+190612616,single nucleotide variant,NM_000275.3(OCA2):c.632C>T (p.Pro211Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+138065338,single nucleotide variant,NM_000275.3(OCA2):c.727C>T (p.Arg243Cys),OCA2,Conflicting classifications of pathogenicity,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+138065338,single nucleotide variant,NM_000275.3(OCA2):c.727C>T (p.Arg243Cys),OCA2,Conflicting classifications of pathogenicity,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+797044784,Indel,NM_000275.3(OCA2):c.819_822delinsGGTC (p.Asn273_Trp274delinsLysVal),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+797044784,Indel,NM_000275.3(OCA2):c.819_822delinsGGTC (p.Asn273_Trp274delinsLysVal),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+879253729,single nucleotide variant,NM_000275.3(OCA2):c.1969G>C (p.Gly657Arg),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+879253729,single nucleotide variant,NM_000275.3(OCA2):c.1969G>C (p.Gly657Arg),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+185504549,single nucleotide variant,NM_000275.3(OCA2):c.1044+1G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+185504549,single nucleotide variant,NM_000275.3(OCA2):c.1044+1G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.2(OCA2):c.647-?_890+?del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.2(OCA2):c.647-?_807+?del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+797045839,single nucleotide variant,NM_000275.3(OCA2):c.2344G>A (p.Gly782Arg),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+797045839,single nucleotide variant,NM_000275.3(OCA2):c.2344G>A (p.Gly782Arg),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+797045838,single nucleotide variant,NM_000275.3(OCA2):c.2012A>T (p.Glu671Val),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+797045838,single nucleotide variant,NM_000275.3(OCA2):c.2012A>T (p.Glu671Val),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+368124046,single nucleotide variant,NM_000275.3(OCA2):c.1503+5G>A,OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+368124046,single nucleotide variant,NM_000275.3(OCA2):c.1503+5G>A,OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+763819379,single nucleotide variant,NM_000275.3(OCA2):c.1427A>G (p.Asn476Ser),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+763819379,single nucleotide variant,NM_000275.3(OCA2):c.1427A>G (p.Asn476Ser),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+144812594,single nucleotide variant,NM_000275.3(OCA2):c.1211C>T (p.Thr404Met),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Nonsyndromic Oculocutaneous Albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+144812594,single nucleotide variant,NM_000275.3(OCA2):c.1211C>T (p.Thr404Met),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Nonsyndromic Oculocutaneous Albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+137956605,single nucleotide variant,NM_000275.3(OCA2):c.1153T>A (p.Phe385Ile),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+137956605,single nucleotide variant,NM_000275.3(OCA2):c.1153T>A (p.Phe385Ile),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+-1,Deletion,Single allele,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+12592307,single nucleotide variant,NM_000275.3(OCA2):c.2364G>A (p.Ser788=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+12592307,single nucleotide variant,NM_000275.3(OCA2):c.2364G>A (p.Ser788=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800418,single nucleotide variant,NM_000275.3(OCA2):c.2208G>A (p.Ser736=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800418,single nucleotide variant,NM_000275.3(OCA2):c.2208G>A (p.Ser736=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800417,single nucleotide variant,NM_000275.3(OCA2):c.2165T>C (p.Ile722Thr),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800417,single nucleotide variant,NM_000275.3(OCA2):c.2165T>C (p.Ile722Thr),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800416,single nucleotide variant,NM_000275.3(OCA2):c.2058A>C (p.Ala686=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800416,single nucleotide variant,NM_000275.3(OCA2):c.2058A>C (p.Ala686=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800415,single nucleotide variant,NM_000275.3(OCA2):c.1887G>T (p.Val629=),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800415,single nucleotide variant,NM_000275.3(OCA2):c.1887G>T (p.Val629=),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800414,single nucleotide variant,NM_000275.3(OCA2):c.1844A>G (p.His615Arg),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800414,single nucleotide variant,NM_000275.3(OCA2):c.1844A>G (p.His615Arg),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800411,single nucleotide variant,NM_000275.3(OCA2):c.1551C>T (p.Cys517=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800411,single nucleotide variant,NM_000275.3(OCA2):c.1551C>T (p.Cys517=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+12910433,single nucleotide variant,NM_000275.3(OCA2):c.1365-15C>T,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+12910433,single nucleotide variant,NM_000275.3(OCA2):c.1365-15C>T,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800408,single nucleotide variant,NM_000275.3(OCA2):c.1320G>C (p.Leu440Phe),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Inborn genetic diseases,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1800408,single nucleotide variant,NM_000275.3(OCA2):c.1320G>C (p.Leu440Phe),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Inborn genetic diseases,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+200081580,single nucleotide variant,NM_000275.3(OCA2):c.1117-17T>C,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+200081580,single nucleotide variant,NM_000275.3(OCA2):c.1117-17T>C,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+373775562,single nucleotide variant,NM_000275.3(OCA2):c.1080C>T (p.Ser360=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+373775562,single nucleotide variant,NM_000275.3(OCA2):c.1080C>T (p.Ser360=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800404,single nucleotide variant,NM_000275.3(OCA2):c.1065G>A (p.Ala355=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800404,single nucleotide variant,NM_000275.3(OCA2):c.1065G>A (p.Ala355=),OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+767182132,single nucleotide variant,NM_000275.3(OCA2):c.1047C>T (p.Ile349=),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+767182132,single nucleotide variant,NM_000275.3(OCA2):c.1047C>T (p.Ile349=),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+1800403,single nucleotide variant,NM_000275.3(OCA2):c.1026C>T (p.Tyr342=),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800403,single nucleotide variant,NM_000275.3(OCA2):c.1026C>T (p.Tyr342=),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+34010619,single nucleotide variant,NM_000275.3(OCA2):c.1007C>T (p.Ala336Val),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+34010619,single nucleotide variant,NM_000275.3(OCA2):c.1007C>T (p.Ala336Val),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+33929465,single nucleotide variant,NM_000275.3(OCA2):c.796C>T (p.Arg266Trp),OCA2,Benign/Likely benign,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+33929465,single nucleotide variant,NM_000275.3(OCA2):c.796C>T (p.Arg266Trp),OCA2,Benign/Likely benign,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+374819923,single nucleotide variant,NM_000275.3(OCA2):c.144G>A (p.Ser48=),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+374819923,single nucleotide variant,NM_000275.3(OCA2):c.144G>A (p.Ser48=),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2305253,single nucleotide variant,NM_000275.3(OCA2):c.722C>G (p.Pro241Arg),OCA2,Benign,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+2305253,single nucleotide variant,NM_000275.3(OCA2):c.722C>G (p.Pro241Arg),OCA2,Benign,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+369189827,single nucleotide variant,NM_000275.3(OCA2):c.*21G>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+369189827,single nucleotide variant,NM_000275.3(OCA2):c.*21G>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+745803719,single nucleotide variant,NM_000275.3(OCA2):c.2080G>A (p.Ala694Thr),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+745803719,single nucleotide variant,NM_000275.3(OCA2):c.2080G>A (p.Ala694Thr),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+374350218,single nucleotide variant,NM_000275.3(OCA2):c.588A>C (p.Leu196=),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+374350218,single nucleotide variant,NM_000275.3(OCA2):c.588A>C (p.Leu196=),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+371834997,single nucleotide variant,NM_000275.3(OCA2):c.48G>A (p.Ala16=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+371834997,single nucleotide variant,NM_000275.3(OCA2):c.48G>A (p.Ala16=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+776180839,single nucleotide variant,NM_000275.3(OCA2):c.*300T>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+776180839,single nucleotide variant,NM_000275.3(OCA2):c.*300T>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+762388937,single nucleotide variant,NM_000275.3(OCA2):c.2322C>T (p.Phe774=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+762388937,single nucleotide variant,NM_000275.3(OCA2):c.2322C>T (p.Phe774=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+779836224,single nucleotide variant,NM_000275.3(OCA2):c.2145C>G (p.Val715=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+779836224,single nucleotide variant,NM_000275.3(OCA2):c.2145C>G (p.Val715=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051022,Deletion,NM_000275.3(OCA2):c.1504-12_1504-9del,OCA2,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+886051022,Deletion,NM_000275.3(OCA2):c.1504-12_1504-9del,OCA2,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+751309779,single nucleotide variant,NM_000275.3(OCA2):c.666C>T (p.His222=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+751309779,single nucleotide variant,NM_000275.3(OCA2):c.666C>T (p.His222=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051026,single nucleotide variant,NM_000275.3(OCA2):c.648C>T (p.Ser216=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051026,single nucleotide variant,NM_000275.3(OCA2):c.648C>T (p.Ser216=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+762764142,single nucleotide variant,NM_000275.3(OCA2):c.594G>A (p.Pro198=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+762764142,single nucleotide variant,NM_000275.3(OCA2):c.594G>A (p.Pro198=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+759291231,single nucleotide variant,NM_000275.3(OCA2):c.85G>A (p.Ala29Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+759291231,single nucleotide variant,NM_000275.3(OCA2):c.85G>A (p.Ala29Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+182290687,single nucleotide variant,NM_000275.3(OCA2):c.*166C>T,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+182290687,single nucleotide variant,NM_000275.3(OCA2):c.*166C>T,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+747214535,single nucleotide variant,NM_000275.3(OCA2):c.1453G>A (p.Gly485Arg),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+747214535,single nucleotide variant,NM_000275.3(OCA2):c.1453G>A (p.Gly485Arg),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051023,single nucleotide variant,NM_000275.3(OCA2):c.1370G>T (p.Cys457Phe),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051023,single nucleotide variant,NM_000275.3(OCA2):c.1370G>T (p.Cys457Phe),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800409,single nucleotide variant,NM_000275.3(OCA2):c.1364+4C>T,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800409,single nucleotide variant,NM_000275.3(OCA2):c.1364+4C>T,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051024,single nucleotide variant,NM_000275.3(OCA2):c.1352C>A (p.Pro451His),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051024,single nucleotide variant,NM_000275.3(OCA2):c.1352C>A (p.Pro451His),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+766072141,single nucleotide variant,NM_000275.3(OCA2):c.216C>G (p.Leu72=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+766072141,single nucleotide variant,NM_000275.3(OCA2):c.216C>G (p.Leu72=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051027,single nucleotide variant,NM_000275.3(OCA2):c.-109T>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051027,single nucleotide variant,NM_000275.3(OCA2):c.-109T>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+7175266,single nucleotide variant,NM_000275.3(OCA2):c.*50A>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+7175266,single nucleotide variant,NM_000275.3(OCA2):c.*50A>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+145577954,single nucleotide variant,NM_000275.3(OCA2):c.2432+11A>G,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+145577954,single nucleotide variant,NM_000275.3(OCA2):c.2432+11A>G,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+375281082,single nucleotide variant,NM_000275.3(OCA2):c.1785-7C>G,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+375281082,single nucleotide variant,NM_000275.3(OCA2):c.1785-7C>G,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+886051021,single nucleotide variant,NM_000275.3(OCA2):c.1553T>A (p.Leu518His),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051021,single nucleotide variant,NM_000275.3(OCA2):c.1553T>A (p.Leu518His),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051025,single nucleotide variant,NM_000275.3(OCA2):c.1326C>T (p.Asn442=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+886051025,single nucleotide variant,NM_000275.3(OCA2):c.1326C>T (p.Asn442=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+549399707,single nucleotide variant,NM_000275.3(OCA2):c.1303G>A (p.Val435Ile),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+549399707,single nucleotide variant,NM_000275.3(OCA2):c.1303G>A (p.Val435Ile),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+767489236,Deletion,NM_000275.3(OCA2):c.619_636del (p.Leu207_Leu212del),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+767489236,Deletion,NM_000275.3(OCA2):c.619_636del (p.Leu207_Leu212del),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+142931246,single nucleotide variant,NM_000275.3(OCA2):c.1025A>G (p.Tyr342Cys),OCA2,Conflicting classifications of pathogenicity,"Albinism,Tyrosinase-positive oculocutaneous albinism,Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+142931246,single nucleotide variant,NM_000275.3(OCA2):c.1025A>G (p.Tyr342Cys),OCA2,Conflicting classifications of pathogenicity,"Albinism,Tyrosinase-positive oculocutaneous albinism,Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+1064796956,single nucleotide variant,NM_000275.3(OCA2):c.2338+2T>G,OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+1064796956,single nucleotide variant,NM_000275.3(OCA2):c.2338+2T>G,OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+34731820,single nucleotide variant,NM_000275.3(OCA2):c.1109T>C (p.Ile370Thr),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+34731820,single nucleotide variant,NM_000275.3(OCA2):c.1109T>C (p.Ile370Thr),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+776814755,single nucleotide variant,NM_000275.3(OCA2):c.2330G>A (p.Cys777Tyr),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+776814755,single nucleotide variant,NM_000275.3(OCA2):c.2330G>A (p.Cys777Tyr),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+772595552,Deletion,NM_000275.3(OCA2):c.2055del (p.Phe685fs),OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,Oculocutaneous albinism",Albinism Condition
+772595552,Deletion,NM_000275.3(OCA2):c.2055del (p.Phe685fs),OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,Oculocutaneous albinism",Albinism Condition
+61738394,single nucleotide variant,NM_000275.3(OCA2):c.79G>A (p.Gly27Arg),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+61738394,single nucleotide variant,NM_000275.3(OCA2):c.79G>A (p.Gly27Arg),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+141949212,single nucleotide variant,NM_000275.3(OCA2):c.2339G>A (p.Gly780Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Albinism,Inborn genetic diseases,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+141949212,single nucleotide variant,NM_000275.3(OCA2):c.2339G>A (p.Gly780Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Albinism,Inborn genetic diseases,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1800418,single nucleotide variant,NM_000275.3(OCA2):c.2208G>T (p.Ser736=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1800418,single nucleotide variant,NM_000275.3(OCA2):c.2208G>T (p.Ser736=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1555422232,single nucleotide variant,NM_000275.3(OCA2):c.2080-1G>A,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1555422232,single nucleotide variant,NM_000275.3(OCA2):c.2080-1G>A,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+35110389,single nucleotide variant,NM_000275.3(OCA2):c.1679G>A (p.Arg560His),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+35110389,single nucleotide variant,NM_000275.3(OCA2):c.1679G>A (p.Arg560His),OCA2,Benign/Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+371963034,single nucleotide variant,NM_000275.3(OCA2):c.1182+1G>A,OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+371963034,single nucleotide variant,NM_000275.3(OCA2):c.1182+1G>A,OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,Inversion,NM_000275.3(OCA2):c.820_821inv (p.Trp274Gln),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Inversion,NM_000275.3(OCA2):c.820_821inv (p.Trp274Gln),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+763219039,single nucleotide variant,NM_000275.3(OCA2):c.807+1G>T,OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+763219039,single nucleotide variant,NM_000275.3(OCA2):c.807+1G>T,OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1555391997,Deletion,NM_000275.3(OCA2):c.171del (p.Gln58fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1555391997,Deletion,NM_000275.3(OCA2):c.171del (p.Gln58fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1555392037,Deletion,NM_000275.3(OCA2):c.121_128del (p.Gly41fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1555392037,Deletion,NM_000275.3(OCA2):c.121_128del (p.Gly41fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1384042381,single nucleotide variant,NM_000275.3(OCA2):c.1660T>C (p.Trp554Arg),OCA2,Likely pathogenic,Albinism,Albinism Condition
+1384042381,single nucleotide variant,NM_000275.3(OCA2):c.1660T>C (p.Trp554Arg),OCA2,Likely pathogenic,Albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.646+1825_807+679del,OCA2,Likely pathogenic,Albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.646+1825_807+679del,OCA2,Likely pathogenic,Albinism,Albinism Condition
+1555368749,single nucleotide variant,NM_000275.3(OCA2):c.1075G>C (p.Gly359Arg),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1555368749,single nucleotide variant,NM_000275.3(OCA2):c.1075G>C (p.Gly359Arg),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+771620099,Deletion,NM_000275.3(OCA2):c.2177_2181del (p.Val726fs),OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+771620099,Deletion,NM_000275.3(OCA2):c.2177_2181del (p.Val726fs),OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+138228425,single nucleotide variant,NM_000275.3(OCA2):c.*1T>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+138228425,single nucleotide variant,NM_000275.3(OCA2):c.*1T>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+147816326,single nucleotide variant,NM_000275.3(OCA2):c.1322A>G (p.Asp441Gly),OCA2,Conflicting classifications of pathogenicity,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+147816326,single nucleotide variant,NM_000275.3(OCA2):c.1322A>G (p.Asp441Gly),OCA2,Conflicting classifications of pathogenicity,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+145242923,single nucleotide variant,NM_000275.3(OCA2):c.574-19A>G,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+145242923,single nucleotide variant,NM_000275.3(OCA2):c.574-19A>G,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+1456118236,single nucleotide variant,NM_000275.3(OCA2):c.1000G>A (p.Ala334Thr),OCA2,Conflicting classifications of pathogenicity,"Inborn genetic diseases,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+1456118236,single nucleotide variant,NM_000275.3(OCA2):c.1000G>A (p.Ala334Thr),OCA2,Conflicting classifications of pathogenicity,"Inborn genetic diseases,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+780625433,Deletion,NM_000275.3(OCA2):c.131del (p.Gly44fs),OCA2,Pathogenic/Likely pathogenic,"Inborn genetic diseases,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+780625433,Deletion,NM_000275.3(OCA2):c.131del (p.Gly44fs),OCA2,Pathogenic/Likely pathogenic,"Inborn genetic diseases,Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,copy number loss,GRCh37/hg19 15q13.1(chr15:28262885-28265761)x1,OCA2,not provided,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+200457227,single nucleotide variant,NM_000275.3(OCA2):c.2360C>T (p.Ala787Val),OCA2,Pathogenic/Likely pathogenic,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+200457227,single nucleotide variant,NM_000275.3(OCA2):c.2360C>T (p.Ala787Val),OCA2,Pathogenic/Likely pathogenic,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+200457227,single nucleotide variant,NM_000275.3(OCA2):c.2360C>A (p.Ala787Glu),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+200457227,single nucleotide variant,NM_000275.3(OCA2):c.2360C>A (p.Ala787Glu),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+868238523,single nucleotide variant,NM_000275.3(OCA2):c.1922C>T (p.Ser641Leu),OCA2,Conflicting classifications of pathogenicity,"Nonsyndromic Oculocutaneous Albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+868238523,single nucleotide variant,NM_000275.3(OCA2):c.1922C>T (p.Ser641Leu),OCA2,Conflicting classifications of pathogenicity,"Nonsyndromic Oculocutaneous Albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+772324459,single nucleotide variant,NM_000275.3(OCA2):c.1456G>T (p.Asp486Tyr),OCA2,Uncertain significance,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+772324459,single nucleotide variant,NM_000275.3(OCA2):c.1456G>T (p.Asp486Tyr),OCA2,Uncertain significance,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+570914443,single nucleotide variant,NM_000275.3(OCA2):c.1064C>T (p.Ala355Val),OCA2,Uncertain significance,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+570914443,single nucleotide variant,NM_000275.3(OCA2):c.1064C>T (p.Ala355Val),OCA2,Uncertain significance,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1566767423,single nucleotide variant,NM_000275.3(OCA2):c.1056A>C (p.Arg352Ser),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1566767423,single nucleotide variant,NM_000275.3(OCA2):c.1056A>C (p.Arg352Ser),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1566797858,Indel,NM_000275.3(OCA2):c.987delinsAGA (p.Gln330fs),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1566797858,Indel,NM_000275.3(OCA2):c.987delinsAGA (p.Gln330fs),OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+759740402,single nucleotide variant,NM_000275.3(OCA2):c.1951+4A>G,OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+759740402,single nucleotide variant,NM_000275.3(OCA2):c.1951+4A>G,OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+779461179,single nucleotide variant,NM_000275.3(OCA2):c.1045-15T>G,OCA2,Pathogenic/Likely pathogenic,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+779461179,single nucleotide variant,NM_000275.3(OCA2):c.1045-15T>G,OCA2,Pathogenic/Likely pathogenic,"Nonsyndromic Oculocutaneous Albinism,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+1567200202,Duplication,NM_000275.3(OCA2):c.1182+2dup,OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1567200202,Duplication,NM_000275.3(OCA2):c.1182+2dup,OCA2,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1374558186,single nucleotide variant,NM_000275.3(OCA2):c.2079G>A (p.Glu693=),OCA2,Conflicting classifications of pathogenicity,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition"
+1374558186,single nucleotide variant,NM_000275.3(OCA2):c.2079G>A (p.Glu693=),OCA2,Conflicting classifications of pathogenicity,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition"
+147736385,single nucleotide variant,NM_000275.3(OCA2):c.2363C>T (p.Ser788Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+147736385,single nucleotide variant,NM_000275.3(OCA2):c.2363C>T (p.Ser788Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+749249918,single nucleotide variant,NM_000275.3(OCA2):c.1973C>T (p.Ala658Val),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+749249918,single nucleotide variant,NM_000275.3(OCA2):c.1973C>T (p.Ala658Val),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595760903,single nucleotide variant,NM_000275.3(OCA2):c.1460C>A (p.Pro487His),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595760903,single nucleotide variant,NM_000275.3(OCA2):c.1460C>A (p.Pro487His),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595764680,single nucleotide variant,NM_000275.3(OCA2):c.1286T>C (p.Leu429Pro),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595764680,single nucleotide variant,NM_000275.3(OCA2):c.1286T>C (p.Leu429Pro),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595774445,Deletion,NM_000275.3(OCA2):c.1120_1123del (p.Pro374fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595774445,Deletion,NM_000275.3(OCA2):c.1120_1123del (p.Pro374fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+767092342,single nucleotide variant,NM_000275.3(OCA2):c.583A>G (p.Ser195Gly),OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+767092342,single nucleotide variant,NM_000275.3(OCA2):c.583A>G (p.Ser195Gly),OCA2,Pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,Deletion,NC_000015.9:g.(28096556_28116427)_(28116428_28116982)del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NC_000015.9:g.(28096556_28116427)_(28116428_28116982)del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NC_000015.9:g.(28231692_28234685)_(28234686_28235802)del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NC_000015.9:g.(28231692_28234685)_(28234686_28235802)del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595717218,single nucleotide variant,NM_000275.3(OCA2):c.1637-2A>G,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1595717218,single nucleotide variant,NM_000275.3(OCA2):c.1637-2A>G,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+768934658,single nucleotide variant,NM_000275.3(OCA2):c.2201T>G (p.Leu734Arg),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+768934658,single nucleotide variant,NM_000275.3(OCA2):c.2201T>G (p.Leu734Arg),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+779086242,single nucleotide variant,NM_000275.3(OCA2):c.1699G>T (p.Glu567Ter),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+779086242,single nucleotide variant,NM_000275.3(OCA2):c.1699G>T (p.Glu567Ter),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+200764804,single nucleotide variant,NM_000275.3(OCA2):c.1363A>G (p.Arg455Gly),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+200764804,single nucleotide variant,NM_000275.3(OCA2):c.1363A>G (p.Arg455Gly),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1566803740,Deletion,NM_000275.3(OCA2):c.681del (p.Leu228fs),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1566803740,Deletion,NM_000275.3(OCA2):c.681del (p.Leu228fs),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NC_000015.9:g.(28260053_28263554)_(28263623_28266235)del,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+368772032,single nucleotide variant,NM_000275.3(OCA2):c.2245-6C>A,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+368772032,single nucleotide variant,NM_000275.3(OCA2):c.2245-6C>A,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+61751032,single nucleotide variant,NM_000275.3(OCA2):c.1744C>T (p.Leu582=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+61751032,single nucleotide variant,NM_000275.3(OCA2):c.1744C>T (p.Leu582=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+139853866,single nucleotide variant,NM_000275.3(OCA2):c.1364G>A (p.Arg455Lys),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+139853866,single nucleotide variant,NM_000275.3(OCA2):c.1364G>A (p.Arg455Lys),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+752317540,single nucleotide variant,NM_000275.3(OCA2):c.1134T>C (p.His378=),OCA2,Benign/Likely benign,OCA2-related condition,OCA2-related condition
+752317540,single nucleotide variant,NM_000275.3(OCA2):c.1134T>C (p.His378=),OCA2,Benign/Likely benign,OCA2-related condition,OCA2-related condition
+531777637,single nucleotide variant,NM_000275.3(OCA2):c.232C>T (p.His78Tyr),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+531777637,single nucleotide variant,NM_000275.3(OCA2):c.232C>T (p.His78Tyr),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+368126732,single nucleotide variant,NM_000275.3(OCA2):c.2043C>G (p.Thr681=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+368126732,single nucleotide variant,NM_000275.3(OCA2):c.2043C>G (p.Thr681=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+142988897,single nucleotide variant,NM_000275.3(OCA2):c.2359G>A (p.Ala787Thr),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+142988897,single nucleotide variant,NM_000275.3(OCA2):c.2359G>A (p.Ala787Thr),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1595660890,Indel,NM_000275.3(OCA2):c.2051_2052delinsG (p.Phe684fs),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition,Oculocutaneous albinism",Albinism Condition
+1595660890,Indel,NM_000275.3(OCA2):c.2051_2052delinsG (p.Phe684fs),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition,Oculocutaneous albinism",Albinism Condition
+1312967591,Deletion,NM_000275.3(OCA2):c.565_566del (p.Leu189fs),OCA2,Pathogenic/Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+1312967591,Deletion,NM_000275.3(OCA2):c.565_566del (p.Leu189fs),OCA2,Pathogenic/Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+987780496,single nucleotide variant,NM_000275.3(OCA2):c.2324G>A (p.Gly775Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+987780496,single nucleotide variant,NM_000275.3(OCA2):c.2324G>A (p.Gly775Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+2042700750,single nucleotide variant,NM_000275.3(OCA2):c.573+6T>C,OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+2042700750,single nucleotide variant,NM_000275.3(OCA2):c.573+6T>C,OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+2030222775,single nucleotide variant,NM_000275.3(OCA2):c.*410C>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2030222775,single nucleotide variant,NM_000275.3(OCA2):c.*410C>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+112155098,single nucleotide variant,NM_000275.3(OCA2):c.*371G>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+112155098,single nucleotide variant,NM_000275.3(OCA2):c.*371G>C,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+75043266,single nucleotide variant,NM_000275.3(OCA2):c.*367C>G,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+75043266,single nucleotide variant,NM_000275.3(OCA2):c.*367C>G,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+151210258,single nucleotide variant,NM_000275.3(OCA2):c.*271G>A,OCA2,Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+151210258,single nucleotide variant,NM_000275.3(OCA2):c.*271G>A,OCA2,Likely benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+192734230,single nucleotide variant,NM_000275.3(OCA2):c.*54A>G,OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+192734230,single nucleotide variant,NM_000275.3(OCA2):c.*54A>G,OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+2030274876,single nucleotide variant,NM_000275.3(OCA2):c.2438G>A (p.Gly813Asp),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2030274876,single nucleotide variant,NM_000275.3(OCA2):c.2438G>A (p.Gly813Asp),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+747340554,single nucleotide variant,NM_000275.3(OCA2):c.2412C>G (p.Phe804Leu),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+747340554,single nucleotide variant,NM_000275.3(OCA2):c.2412C>G (p.Phe804Leu),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+763462686,single nucleotide variant,NM_000275.3(OCA2):c.2361G>A (p.Ala787=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+763462686,single nucleotide variant,NM_000275.3(OCA2):c.2361G>A (p.Ala787=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+144064082,single nucleotide variant,NM_000275.3(OCA2):c.2296C>A (p.Pro766Thr),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+144064082,single nucleotide variant,NM_000275.3(OCA2):c.2296C>A (p.Pro766Thr),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+139837760,single nucleotide variant,NM_000275.3(OCA2):c.2287C>A (p.Leu763Met),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+139837760,single nucleotide variant,NM_000275.3(OCA2):c.2287C>A (p.Leu763Met),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+41307118,single nucleotide variant,NM_000275.3(OCA2):c.2229G>A (p.Pro743=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+41307118,single nucleotide variant,NM_000275.3(OCA2):c.2229G>A (p.Pro743=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+370020051,single nucleotide variant,NM_000275.3(OCA2):c.2169C>T (p.Ala723=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+370020051,single nucleotide variant,NM_000275.3(OCA2):c.2169C>T (p.Ala723=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+543493041,single nucleotide variant,NM_000275.3(OCA2):c.1864C>T (p.Leu622=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+543493041,single nucleotide variant,NM_000275.3(OCA2):c.1864C>T (p.Leu622=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+7164127,single nucleotide variant,NM_000275.3(OCA2):c.1857C>T (p.Asp619=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+7164127,single nucleotide variant,NM_000275.3(OCA2):c.1857C>T (p.Asp619=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+763016773,single nucleotide variant,NM_000275.3(OCA2):c.1849A>T (p.Ile617Leu),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+763016773,single nucleotide variant,NM_000275.3(OCA2):c.1849A>T (p.Ile617Leu),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+150711896,single nucleotide variant,NM_000275.3(OCA2):c.1762C>T (p.Arg588Trp),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+150711896,single nucleotide variant,NM_000275.3(OCA2):c.1762C>T (p.Arg588Trp),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+777131634,single nucleotide variant,NM_000275.3(OCA2):c.1656C>T (p.His552=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+777131634,single nucleotide variant,NM_000275.3(OCA2):c.1656C>T (p.His552=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+34141095,single nucleotide variant,NM_000275.3(OCA2):c.1631T>C (p.Ile544Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+34141095,single nucleotide variant,NM_000275.3(OCA2):c.1631T>C (p.Ile544Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+140932222,single nucleotide variant,NM_000275.3(OCA2):c.1560C>A (p.Leu520=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+140932222,single nucleotide variant,NM_000275.3(OCA2):c.1560C>A (p.Leu520=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+374434751,single nucleotide variant,NM_000275.3(OCA2):c.1479T>G (p.Val493=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+374434751,single nucleotide variant,NM_000275.3(OCA2):c.1479T>G (p.Val493=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1185751753,single nucleotide variant,NM_000275.3(OCA2):c.1337T>C (p.Met446Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1185751753,single nucleotide variant,NM_000275.3(OCA2):c.1337T>C (p.Met446Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+140566426,single nucleotide variant,NM_000275.3(OCA2):c.1336A>G (p.Met446Val),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+140566426,single nucleotide variant,NM_000275.3(OCA2):c.1336A>G (p.Met446Val),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+372899234,single nucleotide variant,NM_000275.3(OCA2):c.1261C>T (p.Arg421Trp),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+372899234,single nucleotide variant,NM_000275.3(OCA2):c.1261C>T (p.Arg421Trp),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+769550106,single nucleotide variant,NM_000275.3(OCA2):c.1222G>A (p.Asp408Asn),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+769550106,single nucleotide variant,NM_000275.3(OCA2):c.1222G>A (p.Asp408Asn),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+150335311,single nucleotide variant,NM_000275.3(OCA2):c.1160C>T (p.Thr387Met),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+150335311,single nucleotide variant,NM_000275.3(OCA2):c.1160C>T (p.Thr387Met),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+756251130,single nucleotide variant,NM_000275.3(OCA2):c.1027G>A (p.Ala343Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+756251130,single nucleotide variant,NM_000275.3(OCA2):c.1027G>A (p.Ala343Thr),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+368832716,single nucleotide variant,NM_000275.3(OCA2):c.972C>T (p.Arg324=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+368832716,single nucleotide variant,NM_000275.3(OCA2):c.972C>T (p.Arg324=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2042383052,single nucleotide variant,NM_000275.3(OCA2):c.885G>A (p.Leu295=),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2042383052,single nucleotide variant,NM_000275.3(OCA2):c.885G>A (p.Leu295=),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+147432138,single nucleotide variant,NM_000275.3(OCA2):c.751G>A (p.Val251Met),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+147432138,single nucleotide variant,NM_000275.3(OCA2):c.751G>A (p.Val251Met),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+2042479500,single nucleotide variant,NM_000275.3(OCA2):c.654C>A (p.Asn218Lys),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2042479500,single nucleotide variant,NM_000275.3(OCA2):c.654C>A (p.Asn218Lys),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1391198560,single nucleotide variant,NM_000275.3(OCA2):c.162G>A (p.Gly54=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1391198560,single nucleotide variant,NM_000275.3(OCA2):c.162G>A (p.Gly54=),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+141135991,single nucleotide variant,NM_000275.3(OCA2):c.126C>T (p.Ala42=),OCA2,Benign/Likely benign,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+141135991,single nucleotide variant,NM_000275.3(OCA2):c.126C>T (p.Ala42=),OCA2,Benign/Likely benign,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+148066812,single nucleotide variant,NM_000275.3(OCA2):c.106C>T (p.Arg36Cys),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+148066812,single nucleotide variant,NM_000275.3(OCA2):c.106C>T (p.Arg36Cys),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2040177115,single nucleotide variant,NM_000275.3(OCA2):c.1842+6C>T,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2040177115,single nucleotide variant,NM_000275.3(OCA2):c.1842+6C>T,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+779188429,single nucleotide variant,NM_000275.3(OCA2):c.1784+6G>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+779188429,single nucleotide variant,NM_000275.3(OCA2):c.1784+6G>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+199875420,single nucleotide variant,NM_000275.3(OCA2):c.1503+7A>T,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+199875420,single nucleotide variant,NM_000275.3(OCA2):c.1503+7A>T,OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2042382744,single nucleotide variant,NM_000275.3(OCA2):c.890+1G>A,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2042382744,single nucleotide variant,NM_000275.3(OCA2):c.890+1G>A,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2041306355,single nucleotide variant,NM_000275.3(OCA2):c.1319T>C (p.Leu440Ser),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2041306355,single nucleotide variant,NM_000275.3(OCA2):c.1319T>C (p.Leu440Ser),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2040273876,Deletion,NM_000275.3(OCA2):c.1657_1675del (p.Val553fs),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2040273876,Deletion,NM_000275.3(OCA2):c.1657_1675del (p.Val553fs),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+143320446,single nucleotide variant,NM_000275.3(OCA2):c.849C>A (p.Ser283Arg),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+143320446,single nucleotide variant,NM_000275.3(OCA2):c.849C>A (p.Ser283Arg),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+762091768,single nucleotide variant,NM_000275.3(OCA2):c.515G>A (p.Arg172Lys),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+762091768,single nucleotide variant,NM_000275.3(OCA2):c.515G>A (p.Arg172Lys),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+779850564,single nucleotide variant,NM_000275.3(OCA2):c.1580T>G (p.Leu527Arg),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+779850564,single nucleotide variant,NM_000275.3(OCA2):c.1580T>G (p.Leu527Arg),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+758894409,Deletion,NM_000275.3(OCA2):c.157del (p.Arg53fs),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+758894409,Deletion,NM_000275.3(OCA2):c.157del (p.Arg53fs),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,Deletion,Single allele,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,Single allele,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+149992727,single nucleotide variant,NM_000275.3(OCA2):c.574-18C>T,OCA2,Benign/Likely benign,OCA2-related condition,OCA2-related condition
+149992727,single nucleotide variant,NM_000275.3(OCA2):c.574-18C>T,OCA2,Benign/Likely benign,OCA2-related condition,OCA2-related condition
+2140372179,single nucleotide variant,NM_000275.3(OCA2):c.1983G>T (p.Leu661Phe),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2140372179,single nucleotide variant,NM_000275.3(OCA2):c.1983G>T (p.Leu661Phe),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+200692258,single nucleotide variant,NM_000275.3(OCA2):c.1901T>A (p.Ile634Asn),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+200692258,single nucleotide variant,NM_000275.3(OCA2):c.1901T>A (p.Ile634Asn),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+772019064,single nucleotide variant,NM_000275.3(OCA2):c.1349C>T (p.Thr450Met),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+772019064,single nucleotide variant,NM_000275.3(OCA2):c.1349C>T (p.Thr450Met),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+769408559,single nucleotide variant,NM_000275.3(OCA2):c.868A>G (p.Arg290Gly),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+769408559,single nucleotide variant,NM_000275.3(OCA2):c.868A>G (p.Arg290Gly),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+746307353,Deletion,NM_000275.3(OCA2):c.2086_2095del (p.Ala696fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+746307353,Deletion,NM_000275.3(OCA2):c.2086_2095del (p.Ala696fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+7170989,single nucleotide variant,NM_000275.3(OCA2):c.1785-47A>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+7170989,single nucleotide variant,NM_000275.3(OCA2):c.1785-47A>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+7175046,single nucleotide variant,NM_000275.3(OCA2):c.2244+25C>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+7175046,single nucleotide variant,NM_000275.3(OCA2):c.2244+25C>G,OCA2,Benign,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+745573222,single nucleotide variant,NM_000275.3(OCA2):c.874T>C (p.Phe292Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+745573222,single nucleotide variant,NM_000275.3(OCA2):c.874T>C (p.Phe292Leu),OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,OCA2-related condition",Albinism Condition
+747940330,single nucleotide variant,NM_000275.3(OCA2):c.1016C>T (p.Ala339Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+747940330,single nucleotide variant,NM_000275.3(OCA2):c.1016C>T (p.Ala339Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+759876062,single nucleotide variant,NM_000275.3(OCA2):c.831T>A (p.Tyr277Ter),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+759876062,single nucleotide variant,NM_000275.3(OCA2):c.831T>A (p.Tyr277Ter),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+2140619474,single nucleotide variant,NM_000275.3(OCA2):c.1860G>C (p.Gly620=),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2140619474,single nucleotide variant,NM_000275.3(OCA2):c.1860G>C (p.Gly620=),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+752727398,single nucleotide variant,NM_000275.3(OCA2):c.1951+1G>C,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+752727398,single nucleotide variant,NM_000275.3(OCA2):c.1951+1G>C,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2140706418,single nucleotide variant,NM_000275.3(OCA2):c.1648G>A (p.Glu550Lys),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2140706418,single nucleotide variant,NM_000275.3(OCA2):c.1648G>A (p.Glu550Lys),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2041233832,single nucleotide variant,NM_000275.3(OCA2):c.1444A>C (p.Thr482Pro),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2041233832,single nucleotide variant,NM_000275.3(OCA2):c.1444A>C (p.Thr482Pro),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+763734477,single nucleotide variant,NM_000275.3(OCA2):c.41C>T (p.Ala14Val),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+763734477,single nucleotide variant,NM_000275.3(OCA2):c.41C>T (p.Ala14Val),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+747408689,Deletion,NM_000275.3(OCA2):c.74_78del (p.Pro25fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+747408689,Deletion,NM_000275.3(OCA2):c.74_78del (p.Pro25fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+770635415,single nucleotide variant,NM_000275.3(OCA2):c.2338+1G>T,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+770635415,single nucleotide variant,NM_000275.3(OCA2):c.2338+1G>T,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+749661379,single nucleotide variant,NM_000275.3(OCA2):c.1178G>T (p.Gly393Val),OCA2,Pathogenic/Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+749661379,single nucleotide variant,NM_000275.3(OCA2):c.1178G>T (p.Gly393Val),OCA2,Pathogenic/Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+747395624,Deletion,NM_000275.3(OCA2):c.950del (p.Leu316_Leu317insTer),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+747395624,Deletion,NM_000275.3(OCA2):c.950del (p.Leu316_Leu317insTer),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+752460023,single nucleotide variant,NM_000275.3(OCA2):c.1504-2A>G,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+752460023,single nucleotide variant,NM_000275.3(OCA2):c.1504-2A>G,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+777893926,single nucleotide variant,NM_000275.3(OCA2):c.631C>G (p.Pro211Ala),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+777893926,single nucleotide variant,NM_000275.3(OCA2):c.631C>G (p.Pro211Ala),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+752510351,Deletion,NM_000275.3(OCA2):c.1275_1277del (p.Met425del),OCA2,Conflicting classifications of pathogenicity,OCA2-related condition,OCA2-related condition
+752510351,Deletion,NM_000275.3(OCA2):c.1275_1277del (p.Met425del),OCA2,Conflicting classifications of pathogenicity,OCA2-related condition,OCA2-related condition
+572955525,single nucleotide variant,NM_000275.3(OCA2):c.647-3G>A,OCA2,Conflicting classifications of pathogenicity,OCA2-related condition,OCA2-related condition
+572955525,single nucleotide variant,NM_000275.3(OCA2):c.647-3G>A,OCA2,Conflicting classifications of pathogenicity,OCA2-related condition,OCA2-related condition
+780239785,single nucleotide variant,NM_000275.3(OCA2):c.1298C>T (p.Ala433Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+780239785,single nucleotide variant,NM_000275.3(OCA2):c.1298C>T (p.Ala433Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+773252077,single nucleotide variant,NM_000275.3(OCA2):c.649G>A (p.Val217Met),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+773252077,single nucleotide variant,NM_000275.3(OCA2):c.649G>A (p.Val217Met),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+2141347507,single nucleotide variant,NM_000275.3(OCA2):c.493C>T (p.Arg165Ter),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+2141347507,single nucleotide variant,NM_000275.3(OCA2):c.493C>T (p.Arg165Ter),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+200398581,single nucleotide variant,NM_000275.3(OCA2):c.1076G>A (p.Gly359Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+200398581,single nucleotide variant,NM_000275.3(OCA2):c.1076G>A (p.Gly359Asp),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+775008954,Deletion,NM_000275.3(OCA2):c.2135del (p.Ile712fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+775008954,Deletion,NM_000275.3(OCA2):c.2135del (p.Ile712fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+868098120,single nucleotide variant,NM_000275.3(OCA2):c.2244+1G>A,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+868098120,single nucleotide variant,NM_000275.3(OCA2):c.2244+1G>A,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+201481836,single nucleotide variant,NM_000275.3(OCA2):c.943C>T (p.Pro315Ser),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+201481836,single nucleotide variant,NM_000275.3(OCA2):c.943C>T (p.Pro315Ser),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+1226502822,single nucleotide variant,NM_000275.3(OCA2):c.1842+2T>C,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1226502822,single nucleotide variant,NM_000275.3(OCA2):c.1842+2T>C,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+765235945,Deletion,NM_000275.3(OCA2):c.1555del (p.Val519fs),OCA2,Pathogenic,OCA2-related condition,OCA2-related condition
+765235945,Deletion,NM_000275.3(OCA2):c.1555del (p.Val519fs),OCA2,Pathogenic,OCA2-related condition,OCA2-related condition
+2141895899,single nucleotide variant,NM_000275.3(OCA2):c.224G>A (p.Gly75Glu),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+2141895899,single nucleotide variant,NM_000275.3(OCA2):c.224G>A (p.Gly75Glu),OCA2,Uncertain significance,"Tyrosinase-positive oculocutaneous albinism;SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+774822330,single nucleotide variant,NM_000275.3(OCA2):c.2323G>C (p.Gly775Arg),OCA2,Pathogenic,Inborn genetic diseases,Inborn genetic diseases
+774822330,single nucleotide variant,NM_000275.3(OCA2):c.2323G>C (p.Gly775Arg),OCA2,Pathogenic,Inborn genetic diseases,Inborn genetic diseases
+141611162,single nucleotide variant,NM_000275.3(OCA2):c.1663C>T (p.Arg555Cys),OCA2,Uncertain significance,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+141611162,single nucleotide variant,NM_000275.3(OCA2):c.1663C>T (p.Arg555Cys),OCA2,Uncertain significance,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES;Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+369322694,single nucleotide variant,NM_000275.3(OCA2):c.1262G>A (p.Arg421Gln),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+369322694,single nucleotide variant,NM_000275.3(OCA2):c.1262G>A (p.Arg421Gln),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+779114740,single nucleotide variant,NM_000275.3(OCA2):c.65C>T (p.Thr22Met),OCA2,Conflicting classifications of pathogenicity,Inborn genetic diseases,Inborn genetic diseases
+779114740,single nucleotide variant,NM_000275.3(OCA2):c.65C>T (p.Thr22Met),OCA2,Conflicting classifications of pathogenicity,Inborn genetic diseases,Inborn genetic diseases
+2140704811,Insertion,NM_000275.3(OCA2):c.1706_1707insT (p.Ala570fs),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2140704811,Insertion,NM_000275.3(OCA2):c.1706_1707insT (p.Ala570fs),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+771155994,single nucleotide variant,NM_000275.3(OCA2):c.1452C>T (p.Ile484=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+771155994,single nucleotide variant,NM_000275.3(OCA2):c.1452C>T (p.Ile484=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+768263906,single nucleotide variant,NM_000275.3(OCA2):c.2245-8C>G,OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+768263906,single nucleotide variant,NM_000275.3(OCA2):c.2245-8C>G,OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+141803386,single nucleotide variant,NM_000275.3(OCA2):c.84C>T (p.Leu28=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+141803386,single nucleotide variant,NM_000275.3(OCA2):c.84C>T (p.Leu28=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+141603023,single nucleotide variant,NM_000275.3(OCA2):c.914G>A (p.Arg305Gln),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+141603023,single nucleotide variant,NM_000275.3(OCA2):c.914G>A (p.Arg305Gln),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+369625319,single nucleotide variant,NM_000275.3(OCA2):c.21C>T (p.Asp7=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+369625319,single nucleotide variant,NM_000275.3(OCA2):c.21C>T (p.Asp7=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+368928996,single nucleotide variant,NM_000275.3(OCA2):c.40G>A (p.Ala14Thr),OCA2,Likely benign,Inborn genetic diseases,Inborn genetic diseases
+368928996,single nucleotide variant,NM_000275.3(OCA2):c.40G>A (p.Ala14Thr),OCA2,Likely benign,Inborn genetic diseases,Inborn genetic diseases
+1046172334,single nucleotide variant,NM_000275.3(OCA2):c.646+1G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+1046172334,single nucleotide variant,NM_000275.3(OCA2):c.646+1G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2140965742,single nucleotide variant,NM_000275.3(OCA2):c.1365-1G>A,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2140965742,single nucleotide variant,NM_000275.3(OCA2):c.1365-1G>A,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2036555943,Duplication,NM_000275.3(OCA2):c.2225dup (p.Phe744fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+2036555943,Duplication,NM_000275.3(OCA2):c.2225dup (p.Phe744fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Microsatellite,NM_000275.3(OCA2):c.374_375del (p.Glu125fs),OCA2,Pathogenic/Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Microsatellite,NM_000275.3(OCA2):c.374_375del (p.Glu125fs),OCA2,Pathogenic/Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.515+1G>A,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.515+1G>A,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Duplication,NM_000275.3(OCA2):c.163dup (p.Ala55fs),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,Duplication,NM_000275.3(OCA2):c.163dup (p.Ala55fs),OCA2,Pathogenic/Likely pathogenic,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.808-3C>G,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.808-3C>G,OCA2,Conflicting classifications of pathogenicity,"Tyrosinase-positive oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,OCA2-related condition",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1952-7T>G,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1952-7T>G,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Duplication,NM_000275.3(OCA2):c.2404dup (p.Tyr802fs),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Duplication,NM_000275.3(OCA2):c.2404dup (p.Tyr802fs),OCA2,Conflicting classifications of pathogenicity,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Duplication,NM_000275.3(OCA2):c.1248dup (p.Leu417fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Duplication,NM_000275.3(OCA2):c.1248dup (p.Leu417fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2433G>T (p.Arg811Ser),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2433G>T (p.Arg811Ser),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2323G>A (p.Gly775Ser),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2323G>A (p.Gly775Ser),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2051T>G (p.Phe684Cys),OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2051T>G (p.Phe684Cys),OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1951+1G>A,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1951+1G>A,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Deletion,NM_000275.3(OCA2):c.1841del (p.Lys614fs),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Deletion,NM_000275.3(OCA2):c.1841del (p.Lys614fs),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.287A>C (p.Glu96Ala),OCA2,Pathogenic/Likely pathogenic,"Oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.287A>C (p.Glu96Ala),OCA2,Pathogenic/Likely pathogenic,"Oculocutaneous albinism,OCA2-related condition,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.172C>T (p.Gln58Ter),OCA2,Pathogenic,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.172C>T (p.Gln58Ter),OCA2,Pathogenic,OCA2-related condition,OCA2-related condition
+-1,Microsatellite,NM_000275.3(OCA2):c.1086AGCACTGGC[1] (p.363ALA[1]),OCA2,Pathogenic/Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Microsatellite,NM_000275.3(OCA2):c.1086AGCACTGGC[1] (p.363ALA[1]),OCA2,Pathogenic/Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1714C>T (p.Arg572Cys),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1714C>T (p.Arg572Cys),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2446A>G (p.Met816Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2446A>G (p.Met816Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.979G>A (p.Val327Ile),OCA2,Conflicting classifications of pathogenicity,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.979G>A (p.Val327Ile),OCA2,Conflicting classifications of pathogenicity,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1923G>A (p.Ser641=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1923G>A (p.Ser641=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.197A>G (p.Gln66Arg),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.197A>G (p.Gln66Arg),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.537A>G (p.Lys179=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.537A>G (p.Lys179=),OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.761T>G (p.Leu254Arg),OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.761T>G (p.Leu254Arg),OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1333A>G (p.Thr445Ala),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1333A>G (p.Thr445Ala),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1135G>A (p.Val379Met),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1135G>A (p.Val379Met),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1888T>A (p.Leu630Met),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1888T>A (p.Leu630Met),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1547T>C (p.Ile516Thr),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1547T>C (p.Ile516Thr),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1442C>T (p.Ala481Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1442C>T (p.Ala481Val),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.386A>G (p.Asp129Gly),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.386A>G (p.Asp129Gly),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1340T>C (p.Leu447Pro),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1340T>C (p.Leu447Pro),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1045-10T>G,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1045-10T>G,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1874A>G (p.Lys625Arg),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1874A>G (p.Lys625Arg),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.516-3C>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.516-3C>A,OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1778T>C (p.Phe593Ser),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1778T>C (p.Phe593Ser),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1481C>T (p.Ser494Phe),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1481C>T (p.Ser494Phe),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2089C>T (p.His697Tyr),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2089C>T (p.His697Tyr),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1064C>A (p.Ala355Glu),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1064C>A (p.Ala355Glu),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1116+6T>C,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1116+6T>C,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.1911_1914del (p.Phe638fs),OCA2,Pathogenic/Likely pathogenic,"Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.1911_1914del (p.Phe638fs),OCA2,Pathogenic/Likely pathogenic,"Oculocutaneous albinism,SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1061T>C (p.Leu354Pro),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1061T>C (p.Leu354Pro),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1846A>G (p.Arg616Gly),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1846A>G (p.Arg616Gly),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.973G>A (p.Gly325Arg),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.973G>A (p.Gly325Arg),OCA2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2216T>C (p.Ile739Thr),OCA2,Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2216T>C (p.Ile739Thr),OCA2,Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.808_817del (p.Val270fs),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.808_817del (p.Val270fs),OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.808-1_817del,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.808-1_817del,OCA2,Likely pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.2224_2237del (p.Ile742fs),OCA2,Pathogenic/Likely pathogenic,OCA2-related condition,OCA2-related condition
+-1,Deletion,NM_000275.3(OCA2):c.2224_2237del (p.Ile742fs),OCA2,Pathogenic/Likely pathogenic,OCA2-related condition,OCA2-related condition
+-1,Indel,NM_000275.3(OCA2):c.2014_2016delinsT (p.Ile672fs),OCA2,Pathogenic,OCA2-related condition,OCA2-related condition
+-1,Indel,NM_000275.3(OCA2):c.2014_2016delinsT (p.Ile672fs),OCA2,Pathogenic,OCA2-related condition,OCA2-related condition
+-1,Indel,NM_000275.3(OCA2):c.2032_2039delinsTAG (p.Glu678_Ala680delinsTer),OCA2,Likely pathogenic,OCA2-related condition,OCA2-related condition
+-1,Indel,NM_000275.3(OCA2):c.2032_2039delinsTAG (p.Glu678_Ala680delinsTer),OCA2,Likely pathogenic,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1313C>A (p.Ala438Asp),OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1313C>A (p.Ala438Asp),OCA2,Uncertain significance,OCA2-related condition,OCA2-related condition
+-1,Deletion,NM_000275.3(OCA2):c.1923del (p.Phe642fs),OCA2,Likely pathogenic,OCA2-related condition,OCA2-related condition
+-1,Deletion,NM_000275.3(OCA2):c.1923del (p.Phe642fs),OCA2,Likely pathogenic,OCA2-related condition,OCA2-related condition
+-1,Deletion,NM_000275.3(OCA2):c.759del (p.Glu253fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,Deletion,NM_000275.3(OCA2):c.759del (p.Glu253fs),OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1951+1215G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1951+1215G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1349C>A (p.Thr450Lys),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1349C>A (p.Thr450Lys),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2395C>T (p.Gln799Ter),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2395C>T (p.Gln799Ter),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.406C>T (p.Arg136Ter),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.406C>T (p.Arg136Ter),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2327C>A (p.Ala776Asp),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2327C>A (p.Ala776Asp),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Duplication,NM_000275.3(OCA2):c.706dup (p.Leu236fs),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Duplication,NM_000275.3(OCA2):c.706dup (p.Leu236fs),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Deletion,NM_000275.3(OCA2):c.168del (p.Gln58fs),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Deletion,NM_000275.3(OCA2):c.168del (p.Gln58fs),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1426A>G (p.Asn476Asp),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1426A>G (p.Asn476Asp),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1832T>C (p.Leu611Pro),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1832T>C (p.Leu611Pro),OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Duplication,NM_000275.3(OCA2):c.1204dup (p.Ser402fs),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Duplication,NM_000275.3(OCA2):c.1204dup (p.Ser402fs),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.646+3A>G,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.646+3A>G,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Microsatellite,NM_000275.3(OCA2):c.173_176dup (p.Ser59fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+-1,Microsatellite,NM_000275.3(OCA2):c.173_176dup (p.Ser59fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2244+2T>G,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2244+2T>G,OCA2,Pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Deletion,NM_000275.3(OCA2):c.1461del (p.Pro488fs),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Deletion,NM_000275.3(OCA2):c.1461del (p.Pro488fs),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Duplication,NM_000275.3(OCA2):c.2055dup (p.Ala686fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+-1,Duplication,NM_000275.3(OCA2):c.2055dup (p.Ala686fs),OCA2,Pathogenic/Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES,Tyrosinase-positive oculocutaneous albinism",Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.414C>G (p.Tyr138Ter),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.414C>G (p.Tyr138Ter),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1044+1G>A,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1044+1G>A,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Microsatellite,NM_000275.3(OCA2):c.1118_1119del,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,Microsatellite,NM_000275.3(OCA2):c.1118_1119del,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.891-1G>A,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.891-1G>A,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2080-2A>T,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2080-2A>T,OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.381G>A (p.Trp127Ter),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.381G>A (p.Trp127Ter),OCA2,Likely pathogenic,"SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES","SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES"
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1183A>G (p.Met395Val),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1183A>G (p.Met395Val),OCA2,Uncertain significance,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1240-1G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1240-1G>T,OCA2,Pathogenic,Tyrosinase-positive oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2432+1G>A,OCA2,Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2432+1G>A,OCA2,Likely pathogenic,Oculocutaneous albinism,Albinism Condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1045-15T>C,OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.1045-15T>C,OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2433-5T>G,OCA2,Likely benign,OCA2-related condition,OCA2-related condition
+-1,single nucleotide variant,NM_000275.3(OCA2):c.2433-5T>G,OCA2,Likely benign,OCA2-related condition,OCA2-related condition

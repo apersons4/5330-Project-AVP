@@ -1,0 +1,246 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList,Disease
+387906560,Deletion,NM_000550.3(TYRP1):c.1103del (p.Lys368fs),TYRP1,Pathogenic/Likely pathogenic,"Oculocutaneous albinism type 3,Albinism,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+387906560,Deletion,NM_000550.3(TYRP1):c.1103del (p.Lys368fs),TYRP1,Pathogenic/Likely pathogenic,"Oculocutaneous albinism type 3,Albinism,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+104894130,single nucleotide variant,NM_000550.3(TYRP1):c.497C>G (p.Ser166Ter),TYRP1,Pathogenic,"Oculocutaneous albinism type 3,OCULOCUTANEOUS ALBINISM, TYPE II, MODIFIER OF",Albinism Condition
+104894130,single nucleotide variant,NM_000550.3(TYRP1):c.497C>G (p.Ser166Ter),TYRP1,Pathogenic,"Oculocutaneous albinism type 3,OCULOCUTANEOUS ALBINISM, TYPE II, MODIFIER OF",Albinism Condition
+121912778,single nucleotide variant,NM_000550.3(TYRP1):c.1120C>T (p.Arg374Ter),TYRP1,Pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+121912778,single nucleotide variant,NM_000550.3(TYRP1):c.1120C>T (p.Arg374Ter),TYRP1,Pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+281865424,single nucleotide variant,NM_000550.3(TYRP1):c.1067G>A (p.Arg356Gln),TYRP1,Pathogenic/Likely pathogenic,"Nonsyndromic Oculocutaneous Albinism,Oculocutaneous albinism type 3,TYRP1-related condition,Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+281865424,single nucleotide variant,NM_000550.3(TYRP1):c.1067G>A (p.Arg356Gln),TYRP1,Pathogenic/Likely pathogenic,"Nonsyndromic Oculocutaneous Albinism,Oculocutaneous albinism type 3,TYRP1-related condition,Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+387906561,Deletion,NM_000550.3(TYRP1):c.107del (p.Ala35_Leu36insTer),TYRP1,Pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+387906561,Deletion,NM_000550.3(TYRP1):c.107del (p.Ala35_Leu36insTer),TYRP1,Pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+387906562,Deletion,NM_000550.3(TYRP1):c.1057_1060del (p.Asn353fs),TYRP1,Pathogenic,"Oculocutaneous albinism type 3,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+387906562,Deletion,NM_000550.3(TYRP1):c.1057_1060del (p.Asn353fs),TYRP1,Pathogenic,"Oculocutaneous albinism type 3,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+387907171,single nucleotide variant,NM_000550.3(TYRP1):c.277C>T (p.Arg93Cys),TYRP1,Uncertain significance,"Skin/hair/eye pigmentation, variation in, 11","Skin/hair/eye pigmentation, variation in, 11"
+387907171,single nucleotide variant,NM_000550.3(TYRP1):c.277C>T (p.Arg93Cys),TYRP1,Uncertain significance,"Skin/hair/eye pigmentation, variation in, 11","Skin/hair/eye pigmentation, variation in, 11"
+200160846,single nucleotide variant,NM_000550.3(TYRP1):c.786G>A (p.Thr262=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+200160846,single nucleotide variant,NM_000550.3(TYRP1):c.786G>A (p.Thr262=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+61752937,single nucleotide variant,NM_000550.3(TYRP1):c.278G>A (p.Arg93His),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+61752937,single nucleotide variant,NM_000550.3(TYRP1):c.278G>A (p.Arg93His),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+61752939,single nucleotide variant,NM_000550.3(TYRP1):c.785C>T (p.Thr262Met),TYRP1,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 3,TYRP1-related condition",Albinism Condition
+61752939,single nucleotide variant,NM_000550.3(TYRP1):c.785C>T (p.Thr262Met),TYRP1,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 3,TYRP1-related condition",Albinism Condition
+41302073,single nucleotide variant,NM_000550.3(TYRP1):c.1557T>G (p.Tyr519Ter),TYRP1,Benign/Likely benign,"Oculocutaneous albinism type 3,Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+41302073,single nucleotide variant,NM_000550.3(TYRP1):c.1557T>G (p.Tyr519Ter),TYRP1,Benign/Likely benign,"Oculocutaneous albinism type 3,Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+34060600,single nucleotide variant,NM_000550.3(TYRP1):c.1500G>A (p.Leu500=),TYRP1,Benign/Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+34060600,single nucleotide variant,NM_000550.3(TYRP1):c.1500G>A (p.Leu500=),TYRP1,Benign/Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+776174514,single nucleotide variant,NM_000550.3(TYRP1):c.1145T>C (p.Leu382Pro),TYRP1,Likely pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+776174514,single nucleotide variant,NM_000550.3(TYRP1):c.1145T>C (p.Leu382Pro),TYRP1,Likely pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+138272660,single nucleotide variant,NM_000550.3(TYRP1):c.1411C>T (p.Arg471Trp),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+138272660,single nucleotide variant,NM_000550.3(TYRP1):c.1411C>T (p.Arg471Trp),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+34509359,single nucleotide variant,NM_000550.3(TYRP1):c.259C>A (p.Arg87=),TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+34509359,single nucleotide variant,NM_000550.3(TYRP1):c.259C>A (p.Arg87=),TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+35866166,single nucleotide variant,NM_000550.3(TYRP1):c.729T>C (p.Ser243=),TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+35866166,single nucleotide variant,NM_000550.3(TYRP1):c.729T>C (p.Ser243=),TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+147268542,single nucleotide variant,NM_000550.3(TYRP1):c.913+9C>T,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+147268542,single nucleotide variant,NM_000550.3(TYRP1):c.913+9C>T,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+144041081,single nucleotide variant,NM_000550.3(TYRP1):c.1082-9T>C,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+144041081,single nucleotide variant,NM_000550.3(TYRP1):c.1082-9T>C,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+2733832,single nucleotide variant,NM_000550.3(TYRP1):c.1261+20C>T,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+2733832,single nucleotide variant,NM_000550.3(TYRP1):c.1261+20C>T,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+147565972,Duplication,NM_000550.3(TYRP1):c.1409-18dup,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+147565972,Duplication,NM_000550.3(TYRP1):c.1409-18dup,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+147861369,single nucleotide variant,NM_000550.3(TYRP1):c.-119G>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+147861369,single nucleotide variant,NM_000550.3(TYRP1):c.-119G>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+181350173,single nucleotide variant,NM_000550.3(TYRP1):c.-69G>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+181350173,single nucleotide variant,NM_000550.3(TYRP1):c.-69G>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+886063413,single nucleotide variant,NM_000550.3(TYRP1):c.527C>T (p.Thr176Met),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+886063413,single nucleotide variant,NM_000550.3(TYRP1):c.527C>T (p.Thr176Met),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+773136421,single nucleotide variant,NM_000550.3(TYRP1):c.1560A>G (p.Gln520=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+773136421,single nucleotide variant,NM_000550.3(TYRP1):c.1560A>G (p.Gln520=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+7867043,single nucleotide variant,NM_000550.3(TYRP1):c.-161G>T,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+7867043,single nucleotide variant,NM_000550.3(TYRP1):c.-161G>T,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+61752864,single nucleotide variant,NM_000550.3(TYRP1):c.208G>A (p.Ala70Thr),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+61752864,single nucleotide variant,NM_000550.3(TYRP1):c.208G>A (p.Ala70Thr),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3,Skin/hair/eye pigmentation, variation in, 11;Oculocutaneous albinism type 3",Albinism Condition
+761214982,single nucleotide variant,NM_000550.3(TYRP1):c.308G>A (p.Gly103Asp),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+761214982,single nucleotide variant,NM_000550.3(TYRP1):c.308G>A (p.Gly103Asp),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+71329877,Microsatellite,NM_000550.3(TYRP1):c.*294AAGT[1],TYRP1,Benign,Oculocutaneous albinism,Albinism Condition
+71329877,Microsatellite,NM_000550.3(TYRP1):c.*294AAGT[1],TYRP1,Benign,Oculocutaneous albinism,Albinism Condition
+886063414,Duplication,NM_000550.3(TYRP1):c.*319_*320dup,TYRP1,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+886063414,Duplication,NM_000550.3(TYRP1):c.*319_*320dup,TYRP1,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+2762464,single nucleotide variant,NM_000550.3(TYRP1):c.*404A>T,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+2762464,single nucleotide variant,NM_000550.3(TYRP1):c.*404A>T,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+886063416,single nucleotide variant,NM_000550.3(TYRP1):c.*591G>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+886063416,single nucleotide variant,NM_000550.3(TYRP1):c.*591G>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+763340664,Duplication,NM_000550.3(TYRP1):c.*955dup,TYRP1,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+763340664,Duplication,NM_000550.3(TYRP1):c.*955dup,TYRP1,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+766836831,single nucleotide variant,NM_000550.3(TYRP1):c.-70C>T,TYRP1,Uncertain significance,"Oculocutaneous albinism type 3,Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+766836831,single nucleotide variant,NM_000550.3(TYRP1):c.-70C>T,TYRP1,Uncertain significance,"Oculocutaneous albinism type 3,Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+200838609,single nucleotide variant,NM_000550.3(TYRP1):c.-6A>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+200838609,single nucleotide variant,NM_000550.3(TYRP1):c.-6A>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+61758405,single nucleotide variant,NM_000550.3(TYRP1):c.70G>A (p.Ala24Thr),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+61758405,single nucleotide variant,NM_000550.3(TYRP1):c.70G>A (p.Ala24Thr),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+773285733,single nucleotide variant,NM_000550.3(TYRP1):c.917C>G (p.Thr306Ser),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+773285733,single nucleotide variant,NM_000550.3(TYRP1):c.917C>G (p.Thr306Ser),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+76349729,single nucleotide variant,NM_000550.3(TYRP1):c.*259T>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+76349729,single nucleotide variant,NM_000550.3(TYRP1):c.*259T>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+71329878,Microsatellite,NM_000550.3(TYRP1):c.*468ATTA[1],TYRP1,Benign,Oculocutaneous albinism,Albinism Condition
+71329878,Microsatellite,NM_000550.3(TYRP1):c.*468ATTA[1],TYRP1,Benign,Oculocutaneous albinism,Albinism Condition
+74941076,single nucleotide variant,NM_000550.3(TYRP1):c.*509C>A,TYRP1,Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+74941076,single nucleotide variant,NM_000550.3(TYRP1):c.*509C>A,TYRP1,Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+142323339,single nucleotide variant,NM_000550.3(TYRP1):c.*568T>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+142323339,single nucleotide variant,NM_000550.3(TYRP1):c.*568T>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1063380,single nucleotide variant,NM_000550.3(TYRP1):c.*908T>C,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+1063380,single nucleotide variant,NM_000550.3(TYRP1):c.*908T>C,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+181711630,single nucleotide variant,NM_000550.3(TYRP1):c.-167G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+181711630,single nucleotide variant,NM_000550.3(TYRP1):c.-167G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+200678533,single nucleotide variant,NM_000550.3(TYRP1):c.-15C>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+200678533,single nucleotide variant,NM_000550.3(TYRP1):c.-15C>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+145061390,single nucleotide variant,NM_000550.3(TYRP1):c.1029C>T (p.Asp343=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+145061390,single nucleotide variant,NM_000550.3(TYRP1):c.1029C>T (p.Asp343=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+79992094,single nucleotide variant,NM_000550.3(TYRP1):c.1082-8G>A,TYRP1,Benign/Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+79992094,single nucleotide variant,NM_000550.3(TYRP1):c.1082-8G>A,TYRP1,Benign/Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+148782717,single nucleotide variant,NM_000550.3(TYRP1):c.1279T>C (p.Leu427=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+148782717,single nucleotide variant,NM_000550.3(TYRP1):c.1279T>C (p.Leu427=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+140364108,single nucleotide variant,NM_000550.3(TYRP1):c.*59A>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+140364108,single nucleotide variant,NM_000550.3(TYRP1):c.*59A>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+683,single nucleotide variant,NM_000550.3(TYRP1):c.*123C>A,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+683,single nucleotide variant,NM_000550.3(TYRP1):c.*123C>A,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+549032453,single nucleotide variant,NM_000550.3(TYRP1):c.*458A>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+549032453,single nucleotide variant,NM_000550.3(TYRP1):c.*458A>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+886063415,single nucleotide variant,NM_000550.3(TYRP1):c.*573T>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+886063415,single nucleotide variant,NM_000550.3(TYRP1):c.*573T>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+910,single nucleotide variant,NM_000550.3(TYRP1):c.*853A>C,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+910,single nucleotide variant,NM_000550.3(TYRP1):c.*853A>C,TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+1057518841,single nucleotide variant,NM_000550.3(TYRP1):c.670C>T (p.His224Tyr),TYRP1,Likely pathogenic,Ocular albinism,Albinism Condition
+1057518841,single nucleotide variant,NM_000550.3(TYRP1):c.670C>T (p.His224Tyr),TYRP1,Likely pathogenic,Ocular albinism,Albinism Condition
+771055145,single nucleotide variant,NM_000550.3(TYRP1):c.1133A>G (p.Asn378Ser),TYRP1,Conflicting classifications of pathogenicity,Ocular albinism,Albinism Condition
+771055145,single nucleotide variant,NM_000550.3(TYRP1):c.1133A>G (p.Asn378Ser),TYRP1,Conflicting classifications of pathogenicity,Ocular albinism,Albinism Condition
+150370598,single nucleotide variant,NM_000550.3(TYRP1):c.1263T>C (p.Asp421=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+150370598,single nucleotide variant,NM_000550.3(TYRP1):c.1263T>C (p.Asp421=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+148248971,single nucleotide variant,NM_000550.3(TYRP1):c.1226C>T (p.Ala409Val),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+148248971,single nucleotide variant,NM_000550.3(TYRP1):c.1226C>T (p.Ala409Val),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+16929374,single nucleotide variant,NM_000550.3(TYRP1):c.977G>A (p.Arg326His),TYRP1,Benign/Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+16929374,single nucleotide variant,NM_000550.3(TYRP1):c.977G>A (p.Arg326His),TYRP1,Benign/Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+140365820,single nucleotide variant,NM_000550.3(TYRP1):c.1261+1G>A,TYRP1,Pathogenic/Likely pathogenic,"Oculocutaneous albinism type 3,Albinism",Albinism Condition
+140365820,single nucleotide variant,NM_000550.3(TYRP1):c.1261+1G>A,TYRP1,Pathogenic/Likely pathogenic,"Oculocutaneous albinism type 3,Albinism",Albinism Condition
+761776915,single nucleotide variant,NM_000550.3(TYRP1):c.1354A>G (p.Met452Val),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+761776915,single nucleotide variant,NM_000550.3(TYRP1):c.1354A>G (p.Met452Val),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1563851602,single nucleotide variant,NM_000550.3(TYRP1):c.256G>T (p.Asp86Tyr),TYRP1,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+1563851602,single nucleotide variant,NM_000550.3(TYRP1):c.256G>T (p.Asp86Tyr),TYRP1,Likely pathogenic,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+752358009,single nucleotide variant,NM_000550.3(TYRP1):c.1534C>T (p.Gln512Ter),TYRP1,Conflicting classifications of pathogenicity,"Nonsyndromic Oculocutaneous Albinism,Oculocutaneous albinism type 3",Albinism Condition
+752358009,single nucleotide variant,NM_000550.3(TYRP1):c.1534C>T (p.Gln512Ter),TYRP1,Conflicting classifications of pathogenicity,"Nonsyndromic Oculocutaneous Albinism,Oculocutaneous albinism type 3",Albinism Condition
+376740467,single nucleotide variant,NM_000550.3(TYRP1):c.914-4G>T,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+376740467,single nucleotide variant,NM_000550.3(TYRP1):c.914-4G>T,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+146838872,single nucleotide variant,NM_000550.3(TYRP1):c.98T>C (p.Val33Ala),TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+146838872,single nucleotide variant,NM_000550.3(TYRP1):c.98T>C (p.Val33Ala),TYRP1,Benign,Oculocutaneous albinism type 3,Albinism Condition
+920991316,single nucleotide variant,NM_000550.3(TYRP1):c.-111T>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+920991316,single nucleotide variant,NM_000550.3(TYRP1):c.-111T>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+181350173,single nucleotide variant,NM_000550.3(TYRP1):c.-69G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+181350173,single nucleotide variant,NM_000550.3(TYRP1):c.-69G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+141834891,single nucleotide variant,NM_000550.3(TYRP1):c.67C>T (p.Arg23Trp),TYRP1,Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+141834891,single nucleotide variant,NM_000550.3(TYRP1):c.67C>T (p.Arg23Trp),TYRP1,Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+749542038,single nucleotide variant,NM_000550.3(TYRP1):c.114T>A (p.Ser38Arg),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+749542038,single nucleotide variant,NM_000550.3(TYRP1):c.114T>A (p.Ser38Arg),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+185178312,single nucleotide variant,NM_000550.3(TYRP1):c.138C>T (p.Ser46=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+185178312,single nucleotide variant,NM_000550.3(TYRP1):c.138C>T (p.Ser46=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+752263450,single nucleotide variant,NM_000550.3(TYRP1):c.148G>A (p.Gly50Arg),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+752263450,single nucleotide variant,NM_000550.3(TYRP1):c.148G>A (p.Gly50Arg),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+759267338,single nucleotide variant,NM_000550.3(TYRP1):c.385G>C (p.Val129Leu),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+759267338,single nucleotide variant,NM_000550.3(TYRP1):c.385G>C (p.Val129Leu),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+937119709,single nucleotide variant,NM_000550.3(TYRP1):c.426C>A (p.Asn142Lys),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+937119709,single nucleotide variant,NM_000550.3(TYRP1):c.426C>A (p.Asn142Lys),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+201293896,single nucleotide variant,NM_000550.3(TYRP1):c.436C>T (p.Arg146Trp),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+201293896,single nucleotide variant,NM_000550.3(TYRP1):c.436C>T (p.Arg146Trp),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+146027807,single nucleotide variant,NM_000550.3(TYRP1):c.457C>T (p.Arg153Cys),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+146027807,single nucleotide variant,NM_000550.3(TYRP1):c.457C>T (p.Arg153Cys),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818070387,single nucleotide variant,NM_000550.3(TYRP1):c.640T>C (p.Ser214Pro),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818070387,single nucleotide variant,NM_000550.3(TYRP1):c.640T>C (p.Ser214Pro),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+372466491,single nucleotide variant,NM_000550.3(TYRP1):c.689G>A (p.Arg230His),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+372466491,single nucleotide variant,NM_000550.3(TYRP1):c.689G>A (p.Arg230His),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+770141693,single nucleotide variant,NM_000550.3(TYRP1):c.904C>G (p.Leu302Val),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+770141693,single nucleotide variant,NM_000550.3(TYRP1):c.904C>G (p.Leu302Val),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+149856598,single nucleotide variant,NM_000550.3(TYRP1):c.926G>A (p.Gly309Glu),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+149856598,single nucleotide variant,NM_000550.3(TYRP1):c.926G>A (p.Gly309Glu),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818182191,single nucleotide variant,NM_000550.3(TYRP1):c.933T>C (p.Ile311=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+1818182191,single nucleotide variant,NM_000550.3(TYRP1):c.933T>C (p.Ile311=),TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+199823942,single nucleotide variant,NM_000550.3(TYRP1):c.1097C>T (p.Thr366Met),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+199823942,single nucleotide variant,NM_000550.3(TYRP1):c.1097C>T (p.Thr366Met),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+761590226,single nucleotide variant,NM_000550.3(TYRP1):c.1172C>T (p.Thr391Ile),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+761590226,single nucleotide variant,NM_000550.3(TYRP1):c.1172C>T (p.Thr391Ile),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+201605146,single nucleotide variant,NM_000550.3(TYRP1):c.1409G>A (p.Ser470Asn),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+201605146,single nucleotide variant,NM_000550.3(TYRP1):c.1409G>A (p.Ser470Asn),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+746824848,single nucleotide variant,NM_000550.3(TYRP1):c.1421G>A (p.Ser474Asn),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+746824848,single nucleotide variant,NM_000550.3(TYRP1):c.1421G>A (p.Ser474Asn),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+371392847,single nucleotide variant,NM_000550.3(TYRP1):c.1505G>A (p.Arg502His),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+371392847,single nucleotide variant,NM_000550.3(TYRP1):c.1505G>A (p.Arg502His),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1227640938,single nucleotide variant,NM_000550.3(TYRP1):c.1510A>G (p.Arg504Gly),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1227640938,single nucleotide variant,NM_000550.3(TYRP1):c.1510A>G (p.Arg504Gly),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+878881586,single nucleotide variant,NM_000550.3(TYRP1):c.*65T>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+878881586,single nucleotide variant,NM_000550.3(TYRP1):c.*65T>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818316894,single nucleotide variant,NM_000550.3(TYRP1):c.*98T>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818316894,single nucleotide variant,NM_000550.3(TYRP1):c.*98T>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+935337985,single nucleotide variant,NM_000550.3(TYRP1):c.*195C>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+935337985,single nucleotide variant,NM_000550.3(TYRP1):c.*195C>T,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+116149666,single nucleotide variant,NM_000550.3(TYRP1):c.*229C>G,TYRP1,Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+116149666,single nucleotide variant,NM_000550.3(TYRP1):c.*229C>G,TYRP1,Likely benign,Oculocutaneous albinism type 3,Albinism Condition
+748262937,single nucleotide variant,NM_000550.3(TYRP1):c.*518A>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+748262937,single nucleotide variant,NM_000550.3(TYRP1):c.*518A>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+535597991,single nucleotide variant,NM_000550.3(TYRP1):c.*727C>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+535597991,single nucleotide variant,NM_000550.3(TYRP1):c.*727C>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818332158,single nucleotide variant,NM_000550.3(TYRP1):c.*775G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818332158,single nucleotide variant,NM_000550.3(TYRP1):c.*775G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818336065,single nucleotide variant,NM_000550.3(TYRP1):c.*934T>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+1818336065,single nucleotide variant,NM_000550.3(TYRP1):c.*934T>G,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+967959444,single nucleotide variant,NM_000550.3(TYRP1):c.*944A>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+967959444,single nucleotide variant,NM_000550.3(TYRP1):c.*944A>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+201296701,single nucleotide variant,NM_000550.3(TYRP1):c.1082-5T>A,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+201296701,single nucleotide variant,NM_000550.3(TYRP1):c.1082-5T>A,TYRP1,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 3,Albinism Condition
+780433845,single nucleotide variant,NM_000550.3(TYRP1):c.351G>A (p.Trp117Ter),TYRP1,Pathogenic/Likely pathogenic,"Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11,Oculocutaneous albinism type 3",Albinism Condition
+780433845,single nucleotide variant,NM_000550.3(TYRP1):c.351G>A (p.Trp117Ter),TYRP1,Pathogenic/Likely pathogenic,"Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11,Oculocutaneous albinism type 3",Albinism Condition
+373912509,single nucleotide variant,NM_000550.3(TYRP1):c.651A>T (p.Gly217=),TYRP1,Likely benign,TYRP1-related condition,TYRP1-related condition
+373912509,single nucleotide variant,NM_000550.3(TYRP1):c.651A>T (p.Gly217=),TYRP1,Likely benign,TYRP1-related condition,TYRP1-related condition
+377679582,single nucleotide variant,NM_000550.3(TYRP1):c.1037C>G (p.Pro346Arg),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+377679582,single nucleotide variant,NM_000550.3(TYRP1):c.1037C>G (p.Pro346Arg),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+764780349,single nucleotide variant,NM_000550.3(TYRP1):c.87G>C (p.Gln29His),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+764780349,single nucleotide variant,NM_000550.3(TYRP1):c.87G>C (p.Gln29His),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+372225049,single nucleotide variant,NM_000550.3(TYRP1):c.1082G>C (p.Gly361Ala),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+372225049,single nucleotide variant,NM_000550.3(TYRP1):c.1082G>C (p.Gly361Ala),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+1435975707,single nucleotide variant,NM_000550.3(TYRP1):c.859C>T (p.Arg287Ter),TYRP1,Pathogenic/Likely pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+1435975707,single nucleotide variant,NM_000550.3(TYRP1):c.859C>T (p.Arg287Ter),TYRP1,Pathogenic/Likely pathogenic,Oculocutaneous albinism type 3,Albinism Condition
+373327120,single nucleotide variant,NM_000550.3(TYRP1):c.80C>G (p.Pro27Arg),TYRP1,Conflicting classifications of pathogenicity,Inborn genetic diseases,Inborn genetic diseases
+373327120,single nucleotide variant,NM_000550.3(TYRP1):c.80C>G (p.Pro27Arg),TYRP1,Conflicting classifications of pathogenicity,Inborn genetic diseases,Inborn genetic diseases
+773888890,single nucleotide variant,NM_000550.3(TYRP1):c.358G>C (p.Ala120Pro),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+773888890,single nucleotide variant,NM_000550.3(TYRP1):c.358G>C (p.Ala120Pro),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+751545422,single nucleotide variant,NM_000550.3(TYRP1):c.163C>T (p.Arg55Cys),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+751545422,single nucleotide variant,NM_000550.3(TYRP1):c.163C>T (p.Arg55Cys),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+78071458,single nucleotide variant,NM_000550.3(TYRP1):c.520G>T (p.Gly174Cys),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+78071458,single nucleotide variant,NM_000550.3(TYRP1):c.520G>T (p.Gly174Cys),TYRP1,Uncertain significance,"Oculocutaneous albinism type 3;Skin/hair/eye pigmentation, variation in, 11",Albinism Condition
+371209698,single nucleotide variant,NM_000550.3(TYRP1):c.418G>T (p.Glu140Ter),TYRP1,Pathogenic,TYRP1-related condition,TYRP1-related condition
+371209698,single nucleotide variant,NM_000550.3(TYRP1):c.418G>T (p.Glu140Ter),TYRP1,Pathogenic,TYRP1-related condition,TYRP1-related condition
+201457510,single nucleotide variant,NM_000550.3(TYRP1):c.187G>A (p.Gly63Ser),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+201457510,single nucleotide variant,NM_000550.3(TYRP1):c.187G>A (p.Gly63Ser),TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+374769303,single nucleotide variant,NM_000550.3(TYRP1):c.913+5G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+374769303,single nucleotide variant,NM_000550.3(TYRP1):c.913+5G>A,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+-1,Duplication,NM_000550.3:c.1261_1264dup,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.631G>C (p.Val211Leu),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.631G>C (p.Val211Leu),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.919G>A (p.Glu307Lys),TYRP1,Conflicting classifications of pathogenicity,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.919G>A (p.Glu307Lys),TYRP1,Conflicting classifications of pathogenicity,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1564T>A (p.Tyr522Asn),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1564T>A (p.Tyr522Asn),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.328T>G (p.Cys110Gly),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.328T>G (p.Cys110Gly),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.341G>A (p.Arg114His),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.341G>A (p.Arg114His),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1524T>A (p.Asp508Glu),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1524T>A (p.Asp508Glu),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1598A>G (p.Asn533Ser),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1598A>G (p.Asn533Ser),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.706C>A (p.Gln236Lys),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.706C>A (p.Gln236Lys),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.831A>G (p.Ile277Met),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.831A>G (p.Ile277Met),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1378C>G (p.Leu460Val),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1378C>G (p.Leu460Val),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.115G>C (p.Gly39Arg),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.115G>C (p.Gly39Arg),TYRP1,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1408+5G>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1408+5G>C,TYRP1,Uncertain significance,Oculocutaneous albinism type 3,Albinism Condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.791A>T (p.Asp264Val),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.791A>T (p.Asp264Val),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.176C>G (p.Ser59Ter),TYRP1,Pathogenic,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.176C>G (p.Ser59Ter),TYRP1,Pathogenic,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.635A>C (p.Asp212Ala),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.635A>C (p.Asp212Ala),TYRP1,Uncertain significance,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1566T>C (p.Tyr522=),TYRP1,Likely benign,TYRP1-related condition,TYRP1-related condition
+-1,single nucleotide variant,NM_000550.3(TYRP1):c.1566T>C (p.Tyr522=),TYRP1,Likely benign,TYRP1-related condition,TYRP1-related condition

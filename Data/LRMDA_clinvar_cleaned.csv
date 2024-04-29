@@ -1,0 +1,21 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList,Disease
+587776952,single nucleotide variant,NM_001305581.2(LRMDA):c.664C>T (p.Arg222Ter),LRMDA,Likely pathogenic,Oculocutaneous albinism type 7,Albinism Condition
+587776952,single nucleotide variant,NM_001305581.2(LRMDA):c.664C>T (p.Arg222Ter),LRMDA,Likely pathogenic,Oculocutaneous albinism type 7,Albinism Condition
+587776953,Duplication,NM_001305581.2(LRMDA):c.150dup (p.Ala51fs),LRMDA,Pathogenic,"Oculocutaneous albinism type 7,LRMDA-related condition",Albinism Condition
+587776953,Duplication,NM_001305581.2(LRMDA):c.150dup (p.Ala51fs),LRMDA,Pathogenic,"Oculocutaneous albinism type 7,LRMDA-related condition",Albinism Condition
+878854351,single nucleotide variant,NM_001305581.2(LRMDA):c.351C>A (p.Asn117Lys),LRMDA,Likely pathogenic,Oculocutaneous albinism type 7,Albinism Condition
+878854351,single nucleotide variant,NM_001305581.2(LRMDA):c.351C>A (p.Asn117Lys),LRMDA,Likely pathogenic,Oculocutaneous albinism type 7,Albinism Condition
+147768808,single nucleotide variant,NM_001305581.2(LRMDA):c.193C>T (p.Leu65=),LRMDA,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 7,Albinism Condition
+147768808,single nucleotide variant,NM_001305581.2(LRMDA):c.193C>T (p.Leu65=),LRMDA,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 7,Albinism Condition
+1898071,single nucleotide variant,NM_001305581.2(LRMDA):c.364T>C (p.Leu122=),LRMDA,Benign,Oculocutaneous albinism type 7,Albinism Condition
+1898071,single nucleotide variant,NM_001305581.2(LRMDA):c.364T>C (p.Leu122=),LRMDA,Benign,Oculocutaneous albinism type 7,Albinism Condition
+188514106,single nucleotide variant,NM_001305581.2(LRMDA):c.480G>T (p.Leu160Phe),LRMDA,Benign,LRMDA-related condition,LRMDA-related condition
+188514106,single nucleotide variant,NM_001305581.2(LRMDA):c.480G>T (p.Leu160Phe),LRMDA,Benign,LRMDA-related condition,LRMDA-related condition
+368355372,single nucleotide variant,NM_001305581.2(LRMDA):c.477G>A (p.Ala159=),LRMDA,Benign/Likely benign,LRMDA-related condition,LRMDA-related condition
+368355372,single nucleotide variant,NM_001305581.2(LRMDA):c.477G>A (p.Ala159=),LRMDA,Benign/Likely benign,LRMDA-related condition,LRMDA-related condition
+1898070,single nucleotide variant,NM_001305581.2(LRMDA):c.398+31A>C,LRMDA,Benign,Oculocutaneous albinism type 7,Albinism Condition
+1898070,single nucleotide variant,NM_001305581.2(LRMDA):c.398+31A>C,LRMDA,Benign,Oculocutaneous albinism type 7,Albinism Condition
+7924288,single nucleotide variant,NM_001305581.2(LRMDA):c.516+53C>T,LRMDA,Benign,Oculocutaneous albinism type 7,Albinism Condition
+7924288,single nucleotide variant,NM_001305581.2(LRMDA):c.516+53C>T,LRMDA,Benign,Oculocutaneous albinism type 7,Albinism Condition
+-1,single nucleotide variant,NM_001305581.2(LRMDA):c.124C>T (p.Leu42Phe),LRMDA,Benign,LRMDA-related condition,LRMDA-related condition
+-1,single nucleotide variant,NM_001305581.2(LRMDA):c.124C>T (p.Leu42Phe),LRMDA,Benign,LRMDA-related condition,LRMDA-related condition

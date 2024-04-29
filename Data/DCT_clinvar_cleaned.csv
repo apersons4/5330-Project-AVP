@@ -1,0 +1,73 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList,Disease
+370729240,single nucleotide variant,NM_001922.5(DCT):c.118T>A (p.Cys40Ser),DCT,Pathogenic/Likely pathogenic,"Albinism,Oculocutaneous albinism type 8",Albinism Condition
+370729240,single nucleotide variant,NM_001922.5(DCT):c.118T>A (p.Cys40Ser),DCT,Pathogenic/Likely pathogenic,"Albinism,Oculocutaneous albinism type 8",Albinism Condition
+1885297366,single nucleotide variant,NM_001922.5(DCT):c.183C>G (p.Cys61Trp),DCT,Pathogenic/Likely pathogenic,"Albinism,Oculocutaneous albinism type 8",Albinism Condition
+1885297366,single nucleotide variant,NM_001922.5(DCT):c.183C>G (p.Cys61Trp),DCT,Pathogenic/Likely pathogenic,"Albinism,Oculocutaneous albinism type 8",Albinism Condition
+1882493359,Deletion,NM_001922.5(DCT):c.1307_1320del (p.Phe435_Phe436insTer),DCT,Pathogenic/Likely pathogenic,"Albinism,Oculocutaneous albinism type 8",Albinism Condition
+1882493359,Deletion,NM_001922.5(DCT):c.1307_1320del (p.Phe435_Phe436insTer),DCT,Pathogenic/Likely pathogenic,"Albinism,Oculocutaneous albinism type 8",Albinism Condition
+1885298359,single nucleotide variant,NM_001922.5(DCT):c.176G>T (p.Gly59Val),DCT,Pathogenic,Oculocutaneous albinism type 8,Albinism Condition
+1885298359,single nucleotide variant,NM_001922.5(DCT):c.176G>T (p.Gly59Val),DCT,Pathogenic,Oculocutaneous albinism type 8,Albinism Condition
+201692579,single nucleotide variant,NM_001922.5(DCT):c.876C>A (p.Tyr292Ter),DCT,Pathogenic,Oculocutaneous albinism type 8,Albinism Condition
+201692579,single nucleotide variant,NM_001922.5(DCT):c.876C>A (p.Tyr292Ter),DCT,Pathogenic,Oculocutaneous albinism type 8,Albinism Condition
+764655568,single nucleotide variant,NM_001922.5(DCT):c.1407G>A (p.Trp469Ter),DCT,Pathogenic,Oculocutaneous albinism type 8,Albinism Condition
+764655568,single nucleotide variant,NM_001922.5(DCT):c.1407G>A (p.Trp469Ter),DCT,Pathogenic,Oculocutaneous albinism type 8,Albinism Condition
+-1,single nucleotide variant,NM_001922.5(DCT):c.833G>A (p.Arg278Lys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.833G>A (p.Arg278Lys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.260C>A (p.Pro87Gln),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.260C>A (p.Pro87Gln),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1282C>T (p.Arg428Trp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1282C>T (p.Arg428Trp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.80G>A (p.Arg27Gln),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.80G>A (p.Arg27Gln),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1180-2111A>G,DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1180-2111A>G,DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.914G>A (p.Gly305Asp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.914G>A (p.Gly305Asp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.355G>A (p.Glu119Lys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.355G>A (p.Glu119Lys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1553A>G (p.Glu518Gly),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1553A>G (p.Glu518Gly),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1177G>A (p.Val393Met),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1177G>A (p.Val393Met),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.401G>A (p.Ser134Asn),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.401G>A (p.Ser134Asn),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.334G>T (p.Gly112Cys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.334G>T (p.Gly112Cys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.698G>T (p.Arg233Leu),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.698G>T (p.Arg233Leu),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1531A>C (p.Ser511Arg),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1531A>C (p.Ser511Arg),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1070C>A (p.Ala357Glu),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1070C>A (p.Ala357Glu),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1141G>A (p.Ala381Thr),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1141G>A (p.Ala381Thr),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1270A>G (p.Ile424Val),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1270A>G (p.Ile424Val),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.803A>G (p.Asp268Gly),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.803A>G (p.Asp268Gly),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1027T>G (p.Ser343Ala),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1027T>G (p.Ser343Ala),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.247C>T (p.Arg83Cys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.247C>T (p.Arg83Cys),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.868G>T (p.Asp290Tyr),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.868G>T (p.Asp290Tyr),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1276C>G (p.His426Asp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1276C>G (p.His426Asp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.856T>C (p.Cys286Arg),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.856T>C (p.Cys286Arg),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.649G>A (p.Val217Ile),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.649G>A (p.Val217Ile),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1125C>A (p.Phe375Leu),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1125C>A (p.Phe375Leu),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.773C>T (p.Thr258Ile),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.773C>T (p.Thr258Ile),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1132G>T (p.Gly378Trp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1132G>T (p.Gly378Trp),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1403G>T (p.Gly468Val),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1403G>T (p.Gly468Val),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1221G>A (p.Met407Ile),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.1221G>A (p.Met407Ile),DCT,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_001922.5(DCT):c.100A>C (p.Ser34Arg),DCT,Uncertain significance,Oculocutaneous albinism type 8,Albinism Condition
+-1,single nucleotide variant,NM_001922.5(DCT):c.100A>C (p.Ser34Arg),DCT,Uncertain significance,Oculocutaneous albinism type 8,Albinism Condition
+-1,single nucleotide variant,NM_001922.5(DCT):c.757G>A (p.Glu253Lys),DCT,Likely benign,DCT-related condition,DCT-related condition
+-1,single nucleotide variant,NM_001922.5(DCT):c.757G>A (p.Glu253Lys),DCT,Likely benign,DCT-related condition,DCT-related condition

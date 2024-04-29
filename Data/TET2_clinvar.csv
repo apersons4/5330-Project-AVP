@@ -1,0 +1,82 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList
+62623390,single nucleotide variant,NM_001127208.3(TET2):c.5103G>A (p.Met1701Ile),TET2,Benign,"not specified,not provided,TET2-related condition"
+142312318,single nucleotide variant,NM_001127208.3(TET2):c.5152G>T (p.Val1718Leu),TET2,Benign/Likely benign,"not specified,not provided,TET2-related condition"
+539389221,single nucleotide variant,NM_001127208.3(TET2):c.5305G>C (p.Ala1769Pro),TET2,Uncertain significance,"not specified,Immunodeficiency 75,not provided"
+28555446,single nucleotide variant,NM_001127208.3(TET2):c.2429A>G (p.Gln810Arg),TET2,Conflicting classifications of pathogenicity,"not specified,not provided,TET2-related condition"
+146031219,single nucleotide variant,NM_001127208.3(TET2):c.521C>A (p.Pro174His),TET2,Conflicting classifications of pathogenicity,"not specified,not provided,TET2-related condition"
+61744960,single nucleotide variant,NM_001127208.3(TET2):c.1064G>A (p.Gly355Asp),TET2,Benign,"not specified,not provided,TET2-related condition"
+201642693,single nucleotide variant,NM_001127208.3(TET2):c.1285G>A (p.Gly429Arg),TET2,Uncertain significance,"not specified,not provided,Immunodeficiency 75"
+144467609,single nucleotide variant,NM_001127208.3(TET2):c.3409+18A>G,TET2,Benign/Likely benign,"not specified,not provided,TET2-related condition"
+367758008,single nucleotide variant,NM_001127208.3(TET2):c.3409+70G>A,TET2,Likely benign,"not specified,TET2-related condition"
+192879693,single nucleotide variant,NM_001127208.3(TET2):c.3409+15T>A,TET2,Conflicting classifications of pathogenicity,"not specified,not provided,TET2-related condition"
+869025296,single nucleotide variant,NM_001127208.3(TET2):c.2131G>C (p.Glu711Gln),TET2,Uncertain significance,Familial cancer of breast
+1131691943,single nucleotide variant,NM_001127208.3(TET2):c.4145A>G (p.His1382Arg),TET2,Uncertain significance,"not provided,Immunodeficiency 75,Angioimmunoblastic T-cell lymphoma"
+1553918194,single nucleotide variant,NM_001127208.3(TET2):c.4456T>C (p.Ser1486Pro),TET2,other,Nephroblastoma
+35695427,single nucleotide variant,NM_001127208.3(TET2):c.1884G>A (p.Glu628=),TET2,Benign,"not provided,TET2-related condition"
+72963007,single nucleotide variant,NM_001127208.3(TET2):c.3595-4G>A,TET2,Benign/Likely benign,"not provided,TET2-related condition"
+1578264146,Insertion,NC_000004.12:g.104314621_104314622insG,TET2,Likely pathogenic,Multiple myeloma
+1578673280,single nucleotide variant,NM_001127208.3(TET2):c.1438C>T (p.Pro480Ser),TET2,Likely pathogenic,Multiple myeloma
+1283023309,single nucleotide variant,NM_001127208.3(TET2):c.4894C>T (p.Gln1632Ter),TET2,Pathogenic,Immunodeficiency 75
+769081887,single nucleotide variant,NM_001127208.3(TET2):c.1268A>G (p.Lys423Arg),TET2,Uncertain significance,Myelodysplastic syndrome
+58201766,Microsatellite,NM_001127208.3(TET2):c.-46-63ATAG[4],TET2,Benign,"not provided,not specified"
+377035231,single nucleotide variant,NM_001127208.3(TET2):c.744C>A (p.His248Gln),TET2,Uncertain significance,"not provided,TET2-related condition"
+755125847,single nucleotide variant,NM_001127208.3(TET2):c.4965G>A (p.Pro1655=),TET2,Likely benign,"not specified,TET2-related condition,not provided"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3562A>T (p.Lys1188Ter),TET2,Pathogenic,Third degree atrioventricular block
+2110231198,Microsatellite,NM_001127208.3(TET2):c.2029_2032del (p.Cys677fs),TET2,Pathogenic,Myelodysplastic syndrome
+966055775,single nucleotide variant,NM_001127208.3(TET2):c.4600C>T (p.Gln1534Ter),TET2,Uncertain significance,Immunodeficiency 75
+-1,single nucleotide variant,NM_001127208.3(TET2):c.804G>C (p.Ser268=),TET2,Likely benign,"not provided,TET2-related condition"
+-1,Duplication,NM_001127208.3(TET2):c.685dup (p.Thr229fs),TET2,Conflicting classifications of pathogenicity,"not provided,Immunodeficiency 75"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.5618T>C (p.Ile1873Thr),TET2,Uncertain significance,"not provided,Atypical chronic myeloid leukemia, BCR-ABL1 negative"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.478G>A (p.Val160Ile),TET2,Uncertain significance,"Inborn genetic diseases,not provided"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3771G>A (p.Thr1257=),TET2,Likely benign,"not provided,TET2-related condition"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3084G>A (p.Met1028Ile),TET2,Uncertain significance,"not provided,Inborn genetic diseases"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1904A>G (p.Gln635Arg),TET2,Uncertain significance,"Inborn genetic diseases,not provided"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3765C>A (p.Tyr1255Ter),TET2,Uncertain significance,"not provided,Angioimmunoblastic T-cell lymphoma"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3108C>T (p.His1036=),TET2,Likely benign,"not provided,TET2-related condition"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.2299A>G (p.Asn767Asp),TET2,Likely benign,"not specified,not provided,TET2-related condition"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3326C>T (p.Ser1109Phe),TET2,Uncertain significance,"Inborn genetic diseases,not provided"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3269A>G (p.Lys1090Arg),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.4289G>A (p.Gly1430Glu),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.2763A>G (p.Ile921Met),TET2,Likely benign,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.2716A>G (p.Met906Val),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.710G>A (p.Cys237Tyr),TET2,Uncertain significance,"Inborn genetic diseases,not provided"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1765A>G (p.Ile589Val),TET2,Likely benign,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.2996A>C (p.Glu999Ala),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1496C>T (p.Pro499Leu),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1625A>C (p.Lys542Thr),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.4793A>G (p.Tyr1598Cys),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.917A>G (p.Lys306Arg),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.528T>A (p.Asn176Lys),TET2,Uncertain significance,"Inborn genetic diseases,not specified"
+-1,Deletion,NM_001127208.3(TET2):c.3678del (p.Ile1226fs),TET2,Pathogenic,Clonal hematopoiesis
+-1,single nucleotide variant,NM_001127208.3(TET2):c.2446A>G (p.Asn816Asp),TET2,Uncertain significance,Squamous cell carcinoma
+-1,single nucleotide variant,NM_001127208.3(TET2):c.5107G>T (p.Gly1703Ter),TET2,Uncertain significance,Immunodeficiency 75
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1621C>G (p.Leu541Val),TET2,Uncertain significance,Immunodeficiency 75
+-1,Deletion,NM_001127208.3(TET2):c.2188del (p.Thr730fs),TET2,Likely pathogenic,Immunodeficiency 75
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1386T>C (p.Ser462=),TET2,Likely benign,"not specified,TET2-related condition"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.410G>C (p.Ser137Thr),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.435T>G (p.Ser145Arg),TET2,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3782G>A (p.Arg1261His),TET2,Uncertain significance,"Atypical chronic myeloid leukemia, BCR-ABL1 negative"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1712G>A (p.Arg571His),TET2,Uncertain significance,"Immunodeficiency 75,not provided"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3409+39C>T,TET2,Uncertain significance,Immunodeficiency 75
+-1,single nucleotide variant,NM_001127208.3(TET2):c.5777G>A (p.Arg1926His),TET2,Uncertain significance,Immunodeficiency 75
+-1,Microsatellite,NM_001127208.3(TET2):c.4664_4665del (p.Glu1555fs),TET2,Uncertain significance,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3737C>T (p.Ser1246Leu),TET2,Uncertain significance,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.806A>T (p.His269Leu),TET2,Uncertain significance,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3813C>G (p.Cys1271Trp),TET2,Uncertain significance,TET2-related condition
+-1,Deletion,NM_001127208.3(TET2):c.4522del (p.Ala1508fs),TET2,Uncertain significance,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.368G>A (p.Arg123His),TET2,Uncertain significance,TET2-related condition
+-1,Deletion,NM_001127208.3(TET2):c.4543_4544del (p.Leu1515fs),TET2,Likely pathogenic,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.2551C>T (p.Pro851Ser),TET2,Uncertain significance,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.4946A>G (p.Tyr1649Cys),TET2,Uncertain significance,"TET2-related condition,not provided"
+-1,Deletion,NM_001127208.3(TET2):c.2196del (p.Ser733fs),TET2,Uncertain significance,Myelodysplastic syndrome
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3401G>C (p.Arg1134Thr),TET2,Uncertain significance,"not provided,TET2-related condition"
+-1,Deletion,NM_001127208.3(TET2):c.3893del (p.Cys1298fs),TET2,Uncertain significance,Angioimmunoblastic T-cell lymphoma
+-1,single nucleotide variant,NM_001127208.3(TET2):c.4512C>T (p.Asn1504=),TET2,Likely benign,"not provided,TET2-related condition"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.5697C>T (p.Leu1899=),TET2,Likely benign,"not provided,TET2-related condition"
+-1,single nucleotide variant,NM_001127208.3(TET2):c.468A>G (p.Gln156=),TET2,Likely benign,"not provided,TET2-related condition"
+-1,single nucleotide variant,NC_000004.12:g.104314617A>T,TET2,Likely benign,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.273T>C (p.Asn91=),TET2,Likely benign,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.3711G>A (p.Pro1237=),TET2,Likely benign,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.1594T>C (p.Leu532=),TET2,Likely benign,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.5883G>A (p.Glu1961=),TET2,Likely benign,TET2-related condition
+-1,single nucleotide variant,NM_001127208.3(TET2):c.4053T>C (p.Tyr1351=),TET2,Likely benign,TET2-related condition

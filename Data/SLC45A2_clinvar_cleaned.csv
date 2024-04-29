@@ -1,0 +1,197 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList,Disease
+730880270,single nucleotide variant,NM_016180.5(SLC45A2):c.563-1G>A,SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+730880270,single nucleotide variant,NM_016180.5(SLC45A2):c.563-1G>A,SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+121912619,single nucleotide variant,NM_016180.5(SLC45A2):c.1082T>C (p.Leu361Pro),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+121912619,single nucleotide variant,NM_016180.5(SLC45A2):c.1082T>C (p.Leu361Pro),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+387906317,Deletion,NM_016180.5(SLC45A2):c.986del (p.Thr329fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+387906317,Deletion,NM_016180.5(SLC45A2):c.986del (p.Thr329fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+387906318,Microsatellite,NM_016180.5(SLC45A2):c.656TCT[2] (p.Phe221del),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+387906318,Microsatellite,NM_016180.5(SLC45A2):c.656TCT[2] (p.Phe221del),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+121912620,single nucleotide variant,NM_016180.5(SLC45A2):c.1457C>T (p.Ala486Val),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+121912620,single nucleotide variant,NM_016180.5(SLC45A2):c.1457C>T (p.Ala486Val),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+121912621,single nucleotide variant,NM_016180.5(SLC45A2):c.469G>A (p.Asp157Asn),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+121912621,single nucleotide variant,NM_016180.5(SLC45A2):c.469G>A (p.Asp157Asn),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+26722,single nucleotide variant,NM_016180.5(SLC45A2):c.814G>A (p.Glu272Lys),SLC45A2,Benign,"Skin/hair/eye pigmentation, variation in, 5,Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+26722,single nucleotide variant,NM_016180.5(SLC45A2):c.814G>A (p.Glu272Lys),SLC45A2,Benign,"Skin/hair/eye pigmentation, variation in, 5,Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+16891982,single nucleotide variant,NM_016180.5(SLC45A2):c.1122= (p.Leu374=),SLC45A2,Benign,"Skin/hair/eye pigmentation, variation in, 5,Malignant melanoma of skin","Skin/hair/eye pigmentation, variation in, 5,Malignant melanoma of skin"
+16891982,single nucleotide variant,NM_016180.5(SLC45A2):c.1122= (p.Leu374=),SLC45A2,Benign,"Skin/hair/eye pigmentation, variation in, 5,Malignant melanoma of skin","Skin/hair/eye pigmentation, variation in, 5,Malignant melanoma of skin"
+730880271,Deletion,NM_016180.5(SLC45A2):c.1121del (p.Leu374fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+730880271,Deletion,NM_016180.5(SLC45A2):c.1121del (p.Leu374fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+2287949,single nucleotide variant,NM_016180.5(SLC45A2):c.987A>G (p.Thr329=),SLC45A2,Benign,"Oculocutaneous albinism type 4,Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+2287949,single nucleotide variant,NM_016180.5(SLC45A2):c.987A>G (p.Thr329=),SLC45A2,Benign,"Oculocutaneous albinism type 4,Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+16891982,single nucleotide variant,NM_016180.5(SLC45A2):c.1122G>C (p.Leu374Phe),SLC45A2,Benign,"Oculocutaneous albinism type 4,Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+16891982,single nucleotide variant,NM_016180.5(SLC45A2):c.1122G>C (p.Leu374Phe),SLC45A2,Benign,"Oculocutaneous albinism type 4,Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+759411189,Deletion,NM_016180.5(SLC45A2):c.1273del (p.Leu425fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+759411189,Deletion,NM_016180.5(SLC45A2):c.1273del (p.Leu425fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+769448704,single nucleotide variant,NM_016180.5(SLC45A2):c.1325C>T (p.Pro442Leu),SLC45A2,Conflicting classifications of pathogenicity,"Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+769448704,single nucleotide variant,NM_016180.5(SLC45A2):c.1325C>T (p.Pro442Leu),SLC45A2,Conflicting classifications of pathogenicity,"Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+797045970,single nucleotide variant,NM_016180.5(SLC45A2):c.578T>G (p.Leu193Arg),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+797045970,single nucleotide variant,NM_016180.5(SLC45A2):c.578T>G (p.Leu193Arg),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+775387808,Deletion,NM_016180.5(SLC45A2):c.264del (p.Gly89fs),SLC45A2,Pathogenic/Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+775387808,Deletion,NM_016180.5(SLC45A2):c.264del (p.Gly89fs),SLC45A2,Pathogenic/Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+371152353,single nucleotide variant,NM_016180.5(SLC45A2):c.1157-10C>T,SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+371152353,single nucleotide variant,NM_016180.5(SLC45A2):c.1157-10C>T,SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+142680641,single nucleotide variant,NM_016180.5(SLC45A2):c.1352G>A (p.Arg451His),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+142680641,single nucleotide variant,NM_016180.5(SLC45A2):c.1352G>A (p.Arg451His),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+886043477,single nucleotide variant,NM_016180.5(SLC45A2):c.1016C>T (p.Thr339Ile),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+886043477,single nucleotide variant,NM_016180.5(SLC45A2):c.1016C>T (p.Thr339Ile),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+373174326,single nucleotide variant,NM_016180.5(SLC45A2):c.1533G>A (p.Ala511=),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+373174326,single nucleotide variant,NM_016180.5(SLC45A2):c.1533G>A (p.Ala511=),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+886060520,single nucleotide variant,NM_016180.5(SLC45A2):c.232C>A (p.Pro78Thr),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+886060520,single nucleotide variant,NM_016180.5(SLC45A2):c.232C>A (p.Pro78Thr),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+201140684,single nucleotide variant,NM_016180.5(SLC45A2):c.1090G>A (p.Glu364Lys),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+201140684,single nucleotide variant,NM_016180.5(SLC45A2):c.1090G>A (p.Glu364Lys),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+113928135,single nucleotide variant,NM_016180.5(SLC45A2):c.1032+9C>T,SLC45A2,Benign/Likely benign,Oculocutaneous albinism type 4,Albinism Condition
+113928135,single nucleotide variant,NM_016180.5(SLC45A2):c.1032+9C>T,SLC45A2,Benign/Likely benign,Oculocutaneous albinism type 4,Albinism Condition
+886060519,single nucleotide variant,NM_016180.5(SLC45A2):c.372T>A (p.Ala124=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+886060519,single nucleotide variant,NM_016180.5(SLC45A2):c.372T>A (p.Ala124=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+886060518,single nucleotide variant,NM_016180.4(SLC45A2):c.*29C>G,SLC45A2,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+886060518,single nucleotide variant,NM_016180.4(SLC45A2):c.*29C>G,SLC45A2,Uncertain significance,Oculocutaneous albinism,Albinism Condition
+142175557,single nucleotide variant,NM_016180.5(SLC45A2):c.1351C>T (p.Arg451Cys),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+142175557,single nucleotide variant,NM_016180.5(SLC45A2):c.1351C>T (p.Arg451Cys),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+767910207,single nucleotide variant,NM_016180.5(SLC45A2):c.1156+7C>T,SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+767910207,single nucleotide variant,NM_016180.5(SLC45A2):c.1156+7C>T,SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+148156477,single nucleotide variant,NM_016180.5(SLC45A2):c.1089C>T (p.Tyr363=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+148156477,single nucleotide variant,NM_016180.5(SLC45A2):c.1089C>T (p.Tyr363=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+753485165,Microsatellite,NM_016180.5(SLC45A2):c.1076_1077del (p.Glu359fs),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism,Oculocutaneous albinism type 4",Albinism Condition
+753485165,Microsatellite,NM_016180.5(SLC45A2):c.1076_1077del (p.Glu359fs),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism,Oculocutaneous albinism type 4",Albinism Condition
+755956613,single nucleotide variant,NM_016180.5(SLC45A2):c.627A>G (p.Arg209=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+755956613,single nucleotide variant,NM_016180.5(SLC45A2):c.627A>G (p.Arg209=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+1057518722,Duplication,NM_016180.5(SLC45A2):c.163dup (p.Tyr55fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+1057518722,Duplication,NM_016180.5(SLC45A2):c.163dup (p.Tyr55fs),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+150473213,single nucleotide variant,NM_016180.5(SLC45A2):c.1518C>T (p.Val506=),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+150473213,single nucleotide variant,NM_016180.5(SLC45A2):c.1518C>T (p.Val506=),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+1294369944,single nucleotide variant,NM_016180.5(SLC45A2):c.1368+1G>T,SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+1294369944,single nucleotide variant,NM_016180.5(SLC45A2):c.1368+1G>T,SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+562624441,single nucleotide variant,NM_016180.5(SLC45A2):c.210C>A (p.Tyr70Ter),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+562624441,single nucleotide variant,NM_016180.5(SLC45A2):c.210C>A (p.Tyr70Ter),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+200122644,single nucleotide variant,NM_016180.5(SLC45A2):c.957C>A (p.Tyr319Ter),SLC45A2,Pathogenic,"Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+200122644,single nucleotide variant,NM_016180.5(SLC45A2):c.957C>A (p.Tyr319Ter),SLC45A2,Pathogenic,"Skin/hair/eye pigmentation, variation in, 5;Oculocutaneous albinism type 4",Albinism Condition
+146802593,single nucleotide variant,NM_016180.5(SLC45A2):c.606G>C (p.Trp202Cys),SLC45A2,Pathogenic/Likely pathogenic,"Inborn genetic diseases,Oculocutaneous albinism type 4",Albinism Condition
+146802593,single nucleotide variant,NM_016180.5(SLC45A2):c.606G>C (p.Trp202Cys),SLC45A2,Pathogenic/Likely pathogenic,"Inborn genetic diseases,Oculocutaneous albinism type 4",Albinism Condition
+202120684,single nucleotide variant,NM_016180.5(SLC45A2):c.454T>C (p.Phe152Leu),SLC45A2,Likely pathogenic,Inborn genetic diseases,Inborn genetic diseases
+202120684,single nucleotide variant,NM_016180.5(SLC45A2):c.454T>C (p.Phe152Leu),SLC45A2,Likely pathogenic,Inborn genetic diseases,Inborn genetic diseases
+748872789,single nucleotide variant,NM_016180.5(SLC45A2):c.1532C>T (p.Ala511Val),SLC45A2,Conflicting classifications of pathogenicity,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+748872789,single nucleotide variant,NM_016180.5(SLC45A2):c.1532C>T (p.Ala511Val),SLC45A2,Conflicting classifications of pathogenicity,Nonsyndromic Oculocutaneous Albinism,Albinism Condition
+757331566,single nucleotide variant,NM_016180.5(SLC45A2):c.191G>T (p.Gly64Val),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+757331566,single nucleotide variant,NM_016180.5(SLC45A2):c.191G>T (p.Gly64Val),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+779099623,single nucleotide variant,NM_016180.5(SLC45A2):c.187G>T (p.Val63Leu),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+779099623,single nucleotide variant,NM_016180.5(SLC45A2):c.187G>T (p.Val63Leu),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1579564717,single nucleotide variant,NM_016180.5(SLC45A2):c.149C>A (p.Ala50Glu),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+1579564717,single nucleotide variant,NM_016180.5(SLC45A2):c.149C>A (p.Ala50Glu),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+780732891,Duplication,NM_016180.5(SLC45A2):c.1567_1574dup (p.Phe525fs),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+780732891,Duplication,NM_016180.5(SLC45A2):c.1567_1574dup (p.Phe525fs),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+116887602,single nucleotide variant,NM_016180.5(SLC45A2):c.834C>T (p.Tyr278=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+116887602,single nucleotide variant,NM_016180.5(SLC45A2):c.834C>T (p.Tyr278=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+149213379,single nucleotide variant,NM_016180.5(SLC45A2):c.264C>G (p.Val88=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+149213379,single nucleotide variant,NM_016180.5(SLC45A2):c.264C>G (p.Val88=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+1579547726,Deletion,NM_016180.5(SLC45A2):c.870del (p.Asn290fs),SLC45A2,Likely pathogenic,"Skin/hair/eye pigmentation, variation in, 5","Skin/hair/eye pigmentation, variation in, 5"
+1579547726,Deletion,NM_016180.5(SLC45A2):c.870del (p.Asn290fs),SLC45A2,Likely pathogenic,"Skin/hair/eye pigmentation, variation in, 5","Skin/hair/eye pigmentation, variation in, 5"
+1753106609,single nucleotide variant,NM_016180.5(SLC45A2):c.386-1G>A,SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+1753106609,single nucleotide variant,NM_016180.5(SLC45A2):c.386-1G>A,SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+45552240,single nucleotide variant,NM_016180.5(SLC45A2):c.*24A>C,SLC45A2,Likely benign,Oculocutaneous albinism type 4,Albinism Condition
+45552240,single nucleotide variant,NM_016180.5(SLC45A2):c.*24A>C,SLC45A2,Likely benign,Oculocutaneous albinism type 4,Albinism Condition
+3822467,single nucleotide variant,NM_016180.5(SLC45A2):c.*1G>A,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+3822467,single nucleotide variant,NM_016180.5(SLC45A2):c.*1G>A,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+3733808,single nucleotide variant,NM_016180.5(SLC45A2):c.1519G>C (p.Val507Leu),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+3733808,single nucleotide variant,NM_016180.5(SLC45A2):c.1519G>C (p.Val507Leu),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+138338197,single nucleotide variant,NM_016180.5(SLC45A2):c.1516G>A (p.Val506Ile),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+138338197,single nucleotide variant,NM_016180.5(SLC45A2):c.1516G>A (p.Val506Ile),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+533032986,single nucleotide variant,NM_016180.5(SLC45A2):c.1251C>G (p.Leu417=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+533032986,single nucleotide variant,NM_016180.5(SLC45A2):c.1251C>G (p.Leu417=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+149980670,single nucleotide variant,NM_016180.5(SLC45A2):c.1235C>T (p.Thr412Met),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+149980670,single nucleotide variant,NM_016180.5(SLC45A2):c.1235C>T (p.Thr412Met),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+758782256,single nucleotide variant,NM_016180.5(SLC45A2):c.1233G>A (p.Gly411=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+758782256,single nucleotide variant,NM_016180.5(SLC45A2):c.1233G>A (p.Gly411=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+141286272,single nucleotide variant,NM_016180.5(SLC45A2):c.1208C>T (p.Thr403Met),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+141286272,single nucleotide variant,NM_016180.5(SLC45A2):c.1208C>T (p.Thr403Met),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+372465070,single nucleotide variant,NM_016180.5(SLC45A2):c.1042C>T (p.Arg348Cys),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4,Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+372465070,single nucleotide variant,NM_016180.5(SLC45A2):c.1042C>T (p.Arg348Cys),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4,Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+140158799,single nucleotide variant,NM_016180.5(SLC45A2):c.986C>T (p.Thr329Ile),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+140158799,single nucleotide variant,NM_016180.5(SLC45A2):c.986C>T (p.Thr329Ile),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+140005143,single nucleotide variant,NM_016180.5(SLC45A2):c.799G>A (p.Glu267Lys),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+140005143,single nucleotide variant,NM_016180.5(SLC45A2):c.799G>A (p.Glu267Lys),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1752520465,single nucleotide variant,NM_016180.5(SLC45A2):c.773C>T (p.Pro258Leu),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1752520465,single nucleotide variant,NM_016180.5(SLC45A2):c.773C>T (p.Pro258Leu),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+750190731,single nucleotide variant,NM_016180.5(SLC45A2):c.602A>G (p.Asp201Gly),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+750190731,single nucleotide variant,NM_016180.5(SLC45A2):c.602A>G (p.Asp201Gly),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+375319565,single nucleotide variant,NM_016180.5(SLC45A2):c.528G>A (p.Lys176=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+375319565,single nucleotide variant,NM_016180.5(SLC45A2):c.528G>A (p.Lys176=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+200477301,single nucleotide variant,NM_016180.5(SLC45A2):c.432C>T (p.Val144=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+200477301,single nucleotide variant,NM_016180.5(SLC45A2):c.432C>T (p.Val144=),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+1753169862,single nucleotide variant,NM_016180.5(SLC45A2):c.324C>G (p.Thr108=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1753169862,single nucleotide variant,NM_016180.5(SLC45A2):c.324C>G (p.Thr108=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+372381365,single nucleotide variant,NM_016180.5(SLC45A2):c.310C>T (p.Pro104Ser),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+372381365,single nucleotide variant,NM_016180.5(SLC45A2):c.310C>T (p.Pro104Ser),SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+753327799,single nucleotide variant,NM_016180.5(SLC45A2):c.287G>C (p.Arg96Pro),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+753327799,single nucleotide variant,NM_016180.5(SLC45A2):c.287G>C (p.Arg96Pro),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1396003152,single nucleotide variant,NM_016180.5(SLC45A2):c.178C>T (p.Leu60=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1396003152,single nucleotide variant,NM_016180.5(SLC45A2):c.178C>T (p.Leu60=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1753182397,single nucleotide variant,NM_016180.5(SLC45A2):c.161C>T (p.Ala54Val),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1753182397,single nucleotide variant,NM_016180.5(SLC45A2):c.161C>T (p.Ala54Val),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1753184180,single nucleotide variant,NM_016180.5(SLC45A2):c.141C>T (p.Phe47=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1753184180,single nucleotide variant,NM_016180.5(SLC45A2):c.141C>T (p.Phe47=),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+371592288,single nucleotide variant,NM_016180.5(SLC45A2):c.-7A>G,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+371592288,single nucleotide variant,NM_016180.5(SLC45A2):c.-7A>G,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1356089204,single nucleotide variant,NM_016180.5(SLC45A2):c.-12C>T,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1356089204,single nucleotide variant,NM_016180.5(SLC45A2):c.-12C>T,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1753197383,single nucleotide variant,NM_016180.5(SLC45A2):c.-30G>T,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+1753197383,single nucleotide variant,NM_016180.5(SLC45A2):c.-30G>T,SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+188368977,single nucleotide variant,NM_016180.5(SLC45A2):c.888+14A>G,SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+188368977,single nucleotide variant,NM_016180.5(SLC45A2):c.888+14A>G,SLC45A2,Conflicting classifications of pathogenicity,Oculocutaneous albinism type 4,Albinism Condition
+779983065,single nucleotide variant,NM_016180.5(SLC45A2):c.1471G>A (p.Gly491Arg),SLC45A2,Pathogenic,Abnormal bleeding;Thrombocytopenia,Abnormal bleeding;Thrombocytopenia
+779983065,single nucleotide variant,NM_016180.5(SLC45A2):c.1471G>A (p.Gly491Arg),SLC45A2,Pathogenic,Abnormal bleeding;Thrombocytopenia,Abnormal bleeding;Thrombocytopenia
+757344228,Duplication,NM_016180.5(SLC45A2):c.533_534dup (p.Gly179fs),SLC45A2,Pathogenic,"Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+757344228,Duplication,NM_016180.5(SLC45A2):c.533_534dup (p.Gly179fs),SLC45A2,Pathogenic,"Oculocutaneous albinism type 4,SLC45A2-related condition",Albinism Condition
+760780597,single nucleotide variant,NM_016180.5(SLC45A2):c.478G>C (p.Asp160His),SLC45A2,Pathogenic/Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+760780597,single nucleotide variant,NM_016180.5(SLC45A2):c.478G>C (p.Asp160His),SLC45A2,Pathogenic/Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+2112021025,single nucleotide variant,NM_016180.5(SLC45A2):c.208T>C (p.Tyr70His),SLC45A2,not provided,Oculocutaneous albinism type 4,Albinism Condition
+2112021025,single nucleotide variant,NM_016180.5(SLC45A2):c.208T>C (p.Tyr70His),SLC45A2,not provided,Oculocutaneous albinism type 4,Albinism Condition
+1177355814,single nucleotide variant,NM_016180.5(SLC45A2):c.563G>T (p.Gly188Val),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+1177355814,single nucleotide variant,NM_016180.5(SLC45A2):c.563G>T (p.Gly188Val),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+112249076,single nucleotide variant,NM_016180.5(SLC45A2):c.1244T>C (p.Ile415Thr),SLC45A2,Uncertain significance,SLC45A2-related condition,SLC45A2-related condition
+112249076,single nucleotide variant,NM_016180.5(SLC45A2):c.1244T>C (p.Ile415Thr),SLC45A2,Uncertain significance,SLC45A2-related condition,SLC45A2-related condition
+755311638,single nucleotide variant,NM_016180.5(SLC45A2):c.274A>G (p.Ser92Gly),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 4,Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5,SLC45A2-related condition",Albinism Condition
+755311638,single nucleotide variant,NM_016180.5(SLC45A2):c.274A>G (p.Ser92Gly),SLC45A2,Conflicting classifications of pathogenicity,"Oculocutaneous albinism type 4,Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5,SLC45A2-related condition",Albinism Condition
+572849798,single nucleotide variant,NM_016180.5(SLC45A2):c.902T>C (p.Met301Thr),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+572849798,single nucleotide variant,NM_016180.5(SLC45A2):c.902T>C (p.Met301Thr),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+779436059,single nucleotide variant,NM_016180.5(SLC45A2):c.301C>T (p.Arg101Cys),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+779436059,single nucleotide variant,NM_016180.5(SLC45A2):c.301C>T (p.Arg101Cys),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+565278457,single nucleotide variant,NM_016180.5(SLC45A2):c.1570C>T (p.Leu524Phe),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+565278457,single nucleotide variant,NM_016180.5(SLC45A2):c.1570C>T (p.Leu524Phe),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+754221547,single nucleotide variant,NM_016180.5(SLC45A2):c.793A>T (p.Met265Leu),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+754221547,single nucleotide variant,NM_016180.5(SLC45A2):c.793A>T (p.Met265Leu),SLC45A2,Uncertain significance,"Oculocutaneous albinism type 4;Skin/hair/eye pigmentation, variation in, 5",Albinism Condition
+759043037,single nucleotide variant,NM_016180.5(SLC45A2):c.1280T>C (p.Leu427Pro),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+759043037,single nucleotide variant,NM_016180.5(SLC45A2):c.1280T>C (p.Leu427Pro),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+145379710,single nucleotide variant,NM_016180.5(SLC45A2):c.365A>G (p.Asn122Ser),SLC45A2,Conflicting classifications of pathogenicity,SLC45A2-related condition,SLC45A2-related condition
+145379710,single nucleotide variant,NM_016180.5(SLC45A2):c.365A>G (p.Asn122Ser),SLC45A2,Conflicting classifications of pathogenicity,SLC45A2-related condition,SLC45A2-related condition
+765425532,single nucleotide variant,NM_016180.5(SLC45A2):c.777A>C (p.Pro259=),SLC45A2,Likely benign,SLC45A2-related condition,SLC45A2-related condition
+765425532,single nucleotide variant,NM_016180.5(SLC45A2):c.777A>C (p.Pro259=),SLC45A2,Likely benign,SLC45A2-related condition,SLC45A2-related condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.760A>T (p.Thr254Ser),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.760A>T (p.Thr254Ser),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.869A>G (p.Asn290Ser),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.869A>G (p.Asn290Ser),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.497A>G (p.Tyr166Cys),SLC45A2,Uncertain significance,"Inborn genetic diseases,SLC45A2-related condition","Inborn genetic diseases,SLC45A2-related condition"
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.497A>G (p.Tyr166Cys),SLC45A2,Uncertain significance,"Inborn genetic diseases,SLC45A2-related condition","Inborn genetic diseases,SLC45A2-related condition"
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1016C>G (p.Thr339Arg),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1016C>G (p.Thr339Arg),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.743G>A (p.Gly248Asp),SLC45A2,Likely benign,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.743G>A (p.Gly248Asp),SLC45A2,Likely benign,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.185G>A (p.Ser62Asn),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.185G>A (p.Ser62Asn),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1182C>G (p.Tyr394Ter),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1182C>G (p.Tyr394Ter),SLC45A2,Likely pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.163T>A (p.Tyr55Asn),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.163T>A (p.Tyr55Asn),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.600A>G (p.Ile200Met),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.600A>G (p.Ile200Met),SLC45A2,Uncertain significance,Inborn genetic diseases,Inborn genetic diseases
+-1,Deletion,NM_016180.5(SLC45A2):c.764del (p.Pro255fs),SLC45A2,Likely pathogenic,SLC45A2-related condition,SLC45A2-related condition
+-1,Deletion,NM_016180.5(SLC45A2):c.764del (p.Pro255fs),SLC45A2,Likely pathogenic,SLC45A2-related condition,SLC45A2-related condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1131C>T (p.Asn377=),SLC45A2,Likely benign,SLC45A2-related condition,SLC45A2-related condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1131C>T (p.Asn377=),SLC45A2,Likely benign,SLC45A2-related condition,SLC45A2-related condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1266C>G (p.Tyr422Ter),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1266C>G (p.Tyr422Ter),SLC45A2,Pathogenic,Oculocutaneous albinism type 4,Albinism Condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1304C>A (p.Ser435Tyr),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.1304C>A (p.Ser435Tyr),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.301C>G (p.Arg101Gly),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition
+-1,single nucleotide variant,NM_016180.5(SLC45A2):c.301C>G (p.Arg101Gly),SLC45A2,Uncertain significance,Oculocutaneous albinism type 4,Albinism Condition

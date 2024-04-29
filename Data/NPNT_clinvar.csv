@@ -1,0 +1,37 @@
+dbSNP_RS,Type,Name,GeneSymbol,ClinicalSignificance,PhenotypeList
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1547G>T (p.Gly516Val),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1583G>A (p.Arg528Gln),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1624A>G (p.Arg542Gly),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1430A>G (p.His477Arg),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1583G>C (p.Arg528Pro),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.149G>A (p.Arg50His),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1354T>C (p.Tyr452His),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1088C>T (p.Thr363Ile),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.604G>A (p.Asp202Asn),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.403A>G (p.Met135Val),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1360A>T (p.Thr454Ser),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.590G>A (p.Cys197Tyr),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.28G>A (p.Val10Ile),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1513G>A (p.Gly505Ser),NPNT,Likely benign,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.125T>C (p.Ile42Thr),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.59A>G (p.Glu20Gly),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1421G>A (p.Arg474His),NPNT,Likely benign,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.964C>G (p.Pro322Ala),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1037C>T (p.Thr346Ile),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1627C>T (p.Arg543Cys),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1274A>G (p.Asp425Gly),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1282C>G (p.Leu428Val),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.612G>A (p.Met204Ile),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.844G>A (p.Gly282Arg),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.904A>G (p.Ile302Val),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.109C>T (p.Arg37Cys),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1544A>T (p.Asn515Ile),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1057G>A (p.Gly353Arg),NPNT,Likely benign,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.59A>C (p.Glu20Ala),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.110G>A (p.Arg37His),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.875G>A (p.Ser292Asn),NPNT,Uncertain significance,Inborn genetic diseases
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.103C>T (p.Leu35=),NPNT,Likely benign,not provided
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.270A>C (p.Leu90=),NPNT,Likely benign,not provided
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.467C>T (p.Pro156Leu),NPNT,Likely benign,not provided
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.1142C>T (p.Pro381Leu),NPNT,Likely benign,not provided
+-1,single nucleotide variant,NM_001033047.3(NPNT):c.714C>G (p.Tyr238Ter),NPNT,Uncertain significance,not provided
